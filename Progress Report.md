@@ -8,7 +8,7 @@ Sean (the previous intern) had briefed me on the programs and issues pertaining 
 
 For this project, programs we are using include:
  - Visual Studios 2019 (C# Codes)
- - Unity 2018.4.18 (Game Development)
+ - Unity 3D 2018.4.18 (Game Development)
  - Unity Hub (Stores Games Used)
 
 ## Week 1
@@ -22,6 +22,7 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 As this project encompasses around rehabilition for the upper limbs (a.k.a. upper extremities), I researched available solutions and issues faced by users. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMj
-A3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTMxMzg0Njk4MywxMTY5MDA1MzQ4LDEzOT
+kzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUy
+OTMwXX0=
 -->
