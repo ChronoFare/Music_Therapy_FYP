@@ -1,5 +1,3 @@
-![Upper Limb Rehabilitation](https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=325&w=470)
-
 ## Week 0
 [8-12 March 2021) 
 This week is reserved for the setting of the programs and handover from the previous intern.
@@ -20,6 +18,6 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDI4MDU2MiwtMTM4MjQxMjA2MiwtND
-Y3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbLTEzOTgxNjIzNzAsLTEzODI0MTIwNjIsLT
+Q2NzE1MjkzMF19
 -->
