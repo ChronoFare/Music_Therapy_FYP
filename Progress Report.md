@@ -4,7 +4,7 @@ This week is reserved for the setting of the programs and handover from the prev
 
 Sean (the previous intern) had briefed me on the programs and issues pertaining to the current "games" for rehabiliation. 
 
-***Side Note**: Dr, Kumar gave me the unique opportunity to work with Sean to finalise and participate in the Lee Hsien Loong IDM Smart Nation Competition. This had allowed to me *
+***Side Note**: Dr, Kumar gave me the unique opportunity to work with Sean to finalise and participate in the Lee Hsien Loong IDM Smart Nation Competition.*
 
 For this project, programs we are using include:
  - Visual Studios 2019 (C# Codes)
@@ -18,8 +18,10 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 3. Add auto-adjust sound codes to instrument from dropdown list.
 4.  Integrate Machine Learning from data sourced from games.
 
+**Conceive**
+As this project 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtND
-Y3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMz
+gyNDEyMDYyLC00NjcxNTI5MzBdfQ==
 -->
