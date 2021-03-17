@@ -21,9 +21,12 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 **Conceive**
 As this project encompasses around rehabilition for the upper limbs (a.k.a. upper extremities), I researched available solutions and issues faced by users. 
 
-To accustom myself to Visual Studios's programming language, C#, I have used online resources such as [w3schools.com](https://www.w3schools.com/cs/default.asp) and LinkedIn Learning to learn the basics of C#. As for Unity, I had completed the "Roll a Ball" 
+To accustom myself to the new programs required for the project, I have used online resources such as 
+ Visual Studios's programming language, C#, I have used online resources such as [w3schools.com](https://www.w3schools.com/cs/default.asp) and LinkedIn Learning to learn the basics of C#. 
+
+As for Unity, I had completed the "Roll a Ball"  tutorial as a stepping stone 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYyMzQ4NTcsMTE2OTAwNTM0OCwxMz
-k5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1
-MjkzMF19
+eyJoaXN0b3J5IjpbNDE3Njc3NzAwLDExNjkwMDUzNDgsMTM5OT
+M1MDI5NSwxMDIwNzk2NTA4LC0xMzgyNDEyMDYyLC00NjcxNTI5
+MzBdfQ==
 -->
