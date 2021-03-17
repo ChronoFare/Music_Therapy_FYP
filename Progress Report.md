@@ -19,9 +19,9 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 4.  Integrate Machine Learning from data sourced from games.
 
 **Conceive**
-As this project 
+As this project encompasses around rehabilition for the upper extremities, also known as
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMz
-gyNDEyMDYyLC00NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjE1OTgyNDAsMTM5OTM1MDI5NSwxMD
+IwNzk2NTA4LC0xMzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
 -->
