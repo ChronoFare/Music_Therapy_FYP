@@ -23,9 +23,10 @@ As this project encompasses around rehabilition for the upper limbs (a.k.a. uppe
 
 To accustom myself to the new programs required for the project, I have used online resources such as websites and learning platforms to learn the basics of :  
 1. Visual Studios's programming language, C# : [w3schools.com](https://www.w3schools.com/cs/default.asp) and [LinkedIn Learning](https://www.linkedin.com/learning/visual-studio-essential-training-05-code-editors/explore-the-default-editor-settings?u=2122804) to learn the basics of C#. 
-2.  Unity 3D : Completed the "Roll a Ball" 
+2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program.
+3. MIDI : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDMxMDQ3LDE3NjUyOTg3ODQsMTE2OT
-AwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIw
-NjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMT
+Y5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQx
+MjA2MiwtNDY3MTUyOTMwXX0=
 -->
