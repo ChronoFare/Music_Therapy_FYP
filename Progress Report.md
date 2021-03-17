@@ -5,8 +5,9 @@ This week is reserved for the setting of the programs and handover from the prev
 Sean (the previous intern) had briefed me on the programs and issues pertaining to the current "games" for rehabiliation. 
 
 For this project, programs we are using include:
- - Visual 
- - 
+ - Visual Studios 2019 (C# codes)
+ - Unity 2018.4.18 (Game Development)
+ - Unity Hub (Stores games used)
 
 ## Week 1
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
@@ -17,5 +18,5 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA3OTM0NDddfQ==
+eyJoaXN0b3J5IjpbLTQ2NzE1MjkzMF19
 -->
