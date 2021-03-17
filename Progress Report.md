@@ -1,4 +1,4 @@
-![Upper Li](https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Upper Limb Rehabilitation](https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=325&w=470)
 
 ## Week 0
 [8-12 March 2021) 
@@ -20,6 +20,6 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjY2MDU0OSwtMTM4MjQxMjA2MiwtND
+eyJoaXN0b3J5IjpbMjE0NDI4MDU2MiwtMTM4MjQxMjA2MiwtND
 Y3MTUyOTMwXX0=
 -->
