@@ -14,9 +14,10 @@ For this project, programs we are using include:
 ## Week 1
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
 1. Story Telling Game (Associate pictures to game sounds via MIDI)
-2. Add sustain code to piano notes during songs.
-3. Add auto-adjust sound codes to instrument from dropdown list.
-4.  Integrate Machine Learning from data sourced from games.
+2. Research on current solutions to music therapy and explore the methods of evaluatio
+3. Add sustain code to piano notes during songs.
+4. Add auto-adjust sound codes to instrument from dropdown list.
+5.  Integrate Machine Learning from data sourced from games.
 
 **Conceive**
 As this project encompasses around rehabilition for the upper limbs (a.k.a. upper extremities), I researched available solutions and issues faced by users. 
@@ -25,8 +26,9 @@ To accustom myself to the new programs required for the project, I have used onl
 1. Visual Studios's programming language, C# : [w3schools.com](https://www.w3schools.com/cs/default.asp) and [LinkedIn Learning](https://www.linkedin.com/learning/visual-studio-essential-training-05-code-editors/explore-the-default-editor-settings?u=2122804) to learn the basics of C#. 
 2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program.
 3. MIDI : 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMT
-Y5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQx
-MjA2MiwtNDY3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbNTkzNDc4NDgyLC0xNDM4NTAzNzkzLDE3Nj
+UyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1
+MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
 -->
