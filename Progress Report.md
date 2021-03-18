@@ -14,7 +14,7 @@ For this project, programs we are using include:
 ## Week 1
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
 1. Story Telling Game (Associate pictures to game sounds via MIDI)
-2. Research on current solutions to music therapy and explore the methods of evaluatio
+2. Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
 3. Add sustain code to piano notes during songs.
 4. Add auto-adjust sound codes to instrument from dropdown list.
 5.  Integrate Machine Learning from data sourced from games.
@@ -28,7 +28,7 @@ To accustom myself to the new programs required for the project, I have used onl
 3. MIDI : 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDc4NDgyLC0xNDM4NTAzNzkzLDE3Nj
-UyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1
-MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMsMT
+c2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5
+NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOTMwXX0=
 -->
