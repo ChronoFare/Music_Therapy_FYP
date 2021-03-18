@@ -24,12 +24,12 @@ As this project encompasses around rehabilition for the upper limbs (a.k.a. uppe
 
 To accustom myself to the new programs required for the project, I have used online resources such as websites and learning platforms to learn the basics of :  
 1. Visual Studios's programming language, C# : [w3schools.com](https://www.w3schools.com/cs/default.asp) and [LinkedIn Learning](https://www.linkedin.com/learning/visual-studio-essential-training-05-code-editors/explore-the-default-editor-settings?u=2122804) to learn the basics of C#. 
-2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program. Created virtual piano using wav. files through self-sourced video.
+2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program. Created virtual piano using wav. files through [self-sourced video](https://www.youtube.com/watch?v=bkE1YSSdOLU).
 3. MIDI : 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLT
-E0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkz
-NTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOT
-MwXX0=
+eyJoaXN0b3J5IjpbNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMT
+Q2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAw
+NTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNj
+IsLTQ2NzE1MjkzMF19
 -->
