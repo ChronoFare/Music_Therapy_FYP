@@ -28,10 +28,10 @@ To accustom myself to the new programs required for the project, I have used onl
 3. MIDI : 
 
 ## Week 2
-Tasked to include and learn how to integrate the LEAP motion controller to the wav. piano game. Learn motion for picking up ball and moving. 
+Dr. Arun: Tasked to include and learn how to integrate the LEAP motion controller to the wav. piano game. Learn motion for picking up ball and moving. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNzgxMTk5LDQyNTk1MjcxMiwtMjEzNj
-k0NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4
-Nzg0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC
-0xMzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMT
+M2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUy
+OTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MD
+gsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
 -->
