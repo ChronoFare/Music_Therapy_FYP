@@ -27,9 +27,11 @@ To accustom myself to the new programs required for the project, I have used onl
 2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program. Created virtual piano using wav. files through [self-sourced video](https://www.youtube.com/watch?v=bkE1YSSdOLU).
 3. MIDI : 
 
+## Week 2
+Tasked to include and learn how to integrate the LEAP motion controller to the wav. piano game. Learn motion for picking up ball and moving. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMT
-Q2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAw
-NTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNj
-IsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbODUwNzgxMTk5LDQyNTk1MjcxMiwtMjEzNj
+k0NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4
+Nzg0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC
+0xMzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
 -->
