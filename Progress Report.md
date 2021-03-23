@@ -30,8 +30,12 @@ To accustom myself to the new programs required for the project, I have used onl
 
 ## Week 2
 Dr. Arun: Tasked to include and learn how to integrate the LEAP motion controller to the wav. piano game. Learn motion for picking up ball and moving. 
+
+Done integration of LEAP Motion Controller into .wav piano game.
+
+Dr. Arun Kumar: Build assessment game based on physical questionaire on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDEyMTQzMywtMTE5Nzc3MDQzMyw0Mj
+eyJoaXN0b3J5IjpbMTcyMjg2MzQyNiwtMTE5Nzc3MDQzMyw0Mj
 U5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1
 MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkzNTAyOT
 UsMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOTMwXX0=
