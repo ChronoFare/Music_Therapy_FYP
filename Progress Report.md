@@ -10,6 +10,7 @@ For this project, programs we are using include:
  - Visual Studios 2019 (C# Codes)
  - Unity 3D [version 2018.4.18] (Game Development)
  - Unity Hub (Stores Games Used)
+ - LEAP Motion controller software
 
 ## Week 1
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
@@ -30,8 +31,9 @@ To accustom myself to the new programs required for the project, I have used onl
 ## Week 2
 Dr. Arun: Tasked to include and learn how to integrate the LEAP motion controller to the wav. piano game. Learn motion for picking up ball and moving. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMT
-M2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUy
-OTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MD
-gsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTQ2MDEyMTQzMywtMTE5Nzc3MDQzMyw0Mj
+U5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1
+MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkzNTAyOT
+UsMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOTMwXX0=
+
 -->
