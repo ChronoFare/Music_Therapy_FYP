@@ -1,5 +1,4 @@
-## Week 0
-[8-12 March 2021) 
+## Week 0 (8-12 March 2021) 
 This week is reserved for the setting of the programs and handover from the previous intern.
 
 Sean (the previous intern) had briefed me on the programs and issues pertaining to the current "games" for rehabiliation. 
@@ -30,19 +29,18 @@ To accustom myself to the new programs required for the project, I have used onl
 3. MIDI : 
 
 ## Week 2 (22-26 March 2021)
-Done integration of LEAP Motion Controller into .wav piano game.
 
-Learning MIDI code and integrating it...
+ - [x] Done integration of LEAP Motion Controller into .wav piano game.
+ - [ ] Learning MIDI code and integrating it to a game.
 
-- Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] Player Collects Coins.
+1. Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] Player Collects Coins.
 
-**
 ## TASK: (By Dr Arun Kumar)
  - [x] Include and learn how to integrate the LEAP motion controller to the wav. piano game. 
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzQzNzYzMiwtMTYxMzE5MjU5MywtMT
+eyJoaXN0b3J5IjpbLTg2NzQxMzYzNywtMTYxMzE5MjU5MywtMT
 E5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1
 ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1Mz
 Q4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2Miwt
