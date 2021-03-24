@@ -30,7 +30,7 @@ To accustom myself to the new programs required for the project, I have used onl
 3. MIDI : 
 
 ## Week 2 (22-26 March 2021)
-1. Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] Player Collects Coins.
+1. Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] SuperMario Style.
 
 ## TASK: (By Dr Arun Kumar)
  - [x] Include and learn how to integrate the LEAP motion controller to the wav. piano game. 
@@ -39,12 +39,13 @@ To accustom myself to the new programs required for the project, I have used onl
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
  - Find assessment tests for adolescents/kids 
+ - **This test should be able to assess the children's progress and evaluate what needs to be done further to improve dysfunction.**
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNj
-EzMTkyNTkzLC0xMTk3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0
-NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nz
-g0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0x
-MzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNj
+k2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUy
+NzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNz
+kzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEw
+MjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
 -->
