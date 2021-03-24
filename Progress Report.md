@@ -35,13 +35,13 @@ Done integration of LEAP Motion Controller into .wav piano game.
 
 Learning MIDI code and integrating it...
 
-Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also crear
+Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] Player Collects Coins.
 
-Dr. Arun Kumar: Build assessment game based on physical questionaire on upper extremity. 
+Dr. Arun Kumar: Build assessment game based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODgwMDUzLC0xNjEzMTkyNTkzLC0xMT
-k3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0NjU4
-MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nzg0LDExNjkwMDUzND
-gsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMzgyNDEyMDYyLC00
-NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzUwODgyMzcsLTE2MTMxOTI1OTMsLT
+ExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2
+NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNT
+M0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIs
+LTQ2NzE1MjkzMF19
 -->
