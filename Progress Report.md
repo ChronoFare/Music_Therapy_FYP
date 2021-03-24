@@ -12,13 +12,14 @@ For this project, programs we are using include:
  - Unity Hub (Stores Games Used)
  - LEAP Motion controller software
 
-## Week 1
+## Week 1 (15-19 March 2021)
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
-1. Story Telling Game (Associate pictures to game sounds via MIDI)
-2. Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
-3. Add sustain code to piano notes during songs.
-4. Add auto-adjust sound codes to instrument from dropdown list.
-5.  Integrate Machine Learning from data sourced from games.
+
+ - [ ] Story Telling Game (Associate pictures to game sounds via MIDI)
+ - [ ] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
+ - [ ] Add sustain code to piano notes during songs.
+ - [ ] Add auto-adjust sound codes to instrument from dropdown list.
+ - [ ] [FINAL STAGE] Integrate Machine Learning from data sourced from games.
 
 **Conceive**
 As this project encompasses around rehabilition for the upper limbs (a.k.a. upper extremities), I researched available solutions and issues faced by users. 
@@ -28,7 +29,7 @@ To accustom myself to the new programs required for the project, I have used onl
 2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program. Created virtual piano using wav. files through [self-sourced video](https://www.youtube.com/watch?v=bkE1YSSdOLU).
 3. MIDI : 
 
-## Week 2
+## Week 2 (15-19 March 2021)
 Done integration of LEAP Motion Controller into .wav piano game.
 
 Learning MIDI code and integrating it...
@@ -41,9 +42,9 @@ Learning MIDI code and integrating it...
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3OTUyNjk4LC0xNjEzMTkyNTkzLC0xMT
-k3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0NjU4
-MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nzg0LDExNjkwMDUzND
-gsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMzgyNDEyMDYyLC00
-NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbLTEyNDA4NTA2MjQsLTE2MTMxOTI1OTMsLT
+ExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2
+NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNT
+M0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIs
+LTQ2NzE1MjkzMF19
 -->
