@@ -29,7 +29,7 @@ To accustom myself to the new programs required for the project, I have used onl
 2. Unity 3D : Completed the "[Roll a Ball](https://learn.unity.com/project/roll-a-ball)" tutorial to learn basics of Unity program. Created virtual piano using wav. files through [self-sourced video](https://www.youtube.com/watch?v=bkE1YSSdOLU).
 3. MIDI : 
 
-## Week 2 (15-19 March 2021)
+## Week 2 (22-26 March 2021)
 Done integration of LEAP Motion Controller into .wav piano game.
 
 Learning MIDI code and integrating it...
@@ -42,9 +42,9 @@ Learning MIDI code and integrating it...
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA4NTA2MjQsLTE2MTMxOTI1OTMsLT
-ExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2
-NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNT
-M0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIs
-LTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbMTAxMzQzNzYzMiwtMTYxMzE5MjU5MywtMT
+E5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1
+ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1Mz
+Q4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2Miwt
+NDY3MTUyOTMwXX0=
 -->
