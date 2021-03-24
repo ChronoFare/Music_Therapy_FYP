@@ -33,11 +33,13 @@ Dr. Arun: Tasked to include and learn how to integrate the LEAP motion controlle
 
 Done integration of LEAP Motion Controller into .wav piano game.
 
+Learning MIDI code and integrating it...
+
 Dr. Arun Kumar: Build assessment game based on physical questionaire on upper extremity. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3MTY1NSwtMTE5Nzc3MDQzMyw0Mj
-U5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1
-MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkzNTAyOT
-UsMTAyMDc5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsND
+I1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4
+NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMj
+k1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
 
 -->
