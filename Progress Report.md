@@ -37,11 +37,13 @@ To accustom myself to the new programs required for the project, I have used onl
  - [ ] Learning MIDI code and integrating it to a game.
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
- - [ ] - [ ] 
+ - Find assessment tests for adolescents/kids 
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMTUwNzIxLC0xNjEzMTkyNTkzLC0xMT
-k3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0NjU4
-MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nzg0LDExNjkwMDUzND
-gsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMzgyNDEyMDYyLC00
-NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbLTI2OTY0OTcwMCwtMTYxMzE5MjU5MywtMT
+E5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1
+ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1Mz
+Q4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2Miwt
+NDY3MTUyOTMwXX0=
 -->
