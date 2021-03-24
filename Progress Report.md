@@ -35,11 +35,12 @@ Done integration of LEAP Motion Controller into .wav piano game.
 
 Learning MIDI code and integrating it...
 
+
 Dr. Arun Kumar: Build assessment game based on physical questionaire on upper extremity. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsND
-I1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4
-NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMj
-k1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
-
+eyJoaXN0b3J5IjpbLTEzNzQyNzYwMzEsLTE2MTMxOTI1OTMsLT
+ExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2
+NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNT
+M0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIs
+LTQ2NzE1MjkzMF19
 -->
