@@ -14,6 +14,7 @@ For this project, programs we are using include:
 ## Week 1 (15-19 March 2021)
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
 
+## TASK: (By Dr Arun Kumar)
  - [ ] Story Telling Game (Associate pictures to game sounds via MIDI)
  - [ ] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
  - [ ] Add sustain code to piano notes during songs.
@@ -41,9 +42,9 @@ To accustom myself to the new programs required for the project, I have used onl
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTY0OTcwMCwtMTYxMzE5MjU5MywtMT
-E5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzNDksLTExNDY1
-ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MDA1Mz
-Q4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2Miwt
-NDY3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNj
+EzMTkyNTkzLC0xMTk3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0
+NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nz
+g0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0x
+MzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
 -->
