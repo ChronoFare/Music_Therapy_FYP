@@ -40,12 +40,14 @@ To accustom myself to the new programs required for the project, I have used onl
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
  - Find assessment tests for adolescents/kids 
  - **This test should be able to assess the children's progress and evaluate what needs to be done further to improve dysfunction.**
+ - SIMPLE
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNj
-k2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUy
-NzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNz
-kzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEw
-MjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMj
+U4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3
+NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNz
+M2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwx
+Mzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2Nz
+E1MjkzMF19
 -->
