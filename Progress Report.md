@@ -35,7 +35,7 @@ To accustom myself to the new programs required for the project, I have used onl
 ## TASK: (By Dr Arun Kumar)
  - [x] Include and learn how to integrate the LEAP motion controller to the wav. piano game. 
  - [x] Done integration of LEAP Motion Controller into .wav piano game.
- - [ ] Learning MIDI code and integrating it to a game.
+ - [x] Learning MIDI code and integrating it to a game.
  - [ ] Learn motion for picking up ball and moving. 
  - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
  - Find assessment tests for adolescents/kids 
@@ -44,10 +44,10 @@ To accustom myself to the new programs required for the project, I have used onl
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTgzOTg1MSwtMTgzODY5NjA4MywxMz
-U2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYxMzE5
-MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzND
-ksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwx
-MTY5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4Mj
-QxMjA2MiwtNDY3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMT
+M1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMx
+OTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1Mz
+Q5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQs
+MTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzOD
+I0MTIwNjIsLTQ2NzE1MjkzMF19
 -->
