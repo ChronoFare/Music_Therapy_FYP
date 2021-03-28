@@ -1,16 +1,16 @@
 ## Music Therapy Assessment Game (M-TAG)
 
 ### Benefits of video game rehabilitation and Virtual Reality (VR) therapy
-Research shows that "VR-based rehabilitation combined with COT may improve the upper extremity functions and decrease caregiver burden among children with CP" [1]. Moreover, benefits include increasing interactivity and motivation [1].
+Research shows that "VR-based rehabilitation combined with conventional occupational therapy (COT) may improve the upper extremity functions and decrease caregiver burden among children with CP" [1]. Moreover, benefits include increasing interactivity and motivation [1]. Game based therapy is also time efficient, low cost, easy to implement anf clinically effective [2]. 
 
-Games can be categorized to the patients needed area of treatment within the upper extremities region; categories can include coordination and timing. Based on the patient's progress, the OT can customise the difficulty level [1].
+Games can be categorized to the patients needed area of treatment within the upper extremities region; categories can include coordination and timing. Based on the patient's progress, the OT can customise the difficulty level [1]. This allows moderation of the complexity of the movements required.
 
 
 ### Chosen Assessment Test for M-TAG 
-The Quality of Upper Extremity Skills Test (QUEST) is to be chosen as our measure for assessment for its reliability and validility. QUEST is validated for children aging 18 months to 8 years [1]
+The Quality of Upper Extremity Skills Test (QUEST) is to be chosen as our measure for assessment for its reliability and validility. QUEST is validated for children aging 18 months to 8 years [1]. As our target group is primarily children and adolescents, QUEST is more suitable in this aspect. As QUEST is developed by therapists for therapist, the test benefits from its quality in describing movement and selecting programs catered to the patient's needs. Moreover it has evidential prove of reliability, validity, and responsiveness [1].
 
 ### Current technology on the market 
-Current advances in technology introduced the [Gloreha Sinfonia](https://www.youtube.com/watch?v=OewQiHHexhE) shows a full-sized upper limb focused rehabilitation device.  However, the downside of this device is:
+Current advances in technology introduced the [Gloreha Sinfonia](https://www.youtube.com/watch?v=OewQiHHexhE) shows a full-sized upper limb focused rehabilitation device [5]. However, the downside of this device is:
 1. Not portablility
 2. Expensive
 3. Focuses on the technical part, not the musical aspect of therapy.
@@ -25,5 +25,5 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ1ODMyNTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk2MTUyNjddfQ==
 -->
