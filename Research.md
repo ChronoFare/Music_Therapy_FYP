@@ -15,7 +15,8 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 2. Expensive
 3. Focuses on the technical part, not the musical aspect of therapy.
 
-### Solution: Integrating Music Therapy with Video 
+### Solution: Integrating Music Therapy with VR Rehabilitation
+By marrying the idea of music therapy with VR rehabilitation, we can reap the benefits of engaging the patient's interests while keep 
 
 ### References
 
@@ -25,5 +26,6 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzY5NzUzNCwtMjEyOTYxNTI2N119
+eyJoaXN0b3J5IjpbLTE4NzE0OTQ3ODMsLTIxMjk2MTUyNjddfQ
+==
 -->
