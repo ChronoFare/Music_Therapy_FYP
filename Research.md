@@ -18,7 +18,7 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 ### Solution: Integrating Music Therapy with VR Rehabilitation
 By marrying the idea of music therapy with VR rehabilitation, we can reap the benefits of engaging the patient's interests while keeping their rehabilitation program on track. 
 
-By tracking the patients movements, feedback can be used by the OT to make 
+By tracking the patients movements, feedback can be used by the OT to make informed adjustments, or even automated by the program; reducing the constant need of OTs to be there 
 
 ### References
 
@@ -28,5 +28,5 @@ By tracking the patients movements, feedback can be used by the OT to make
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDYwNDcwNCwtMjEyOTYxNTI2N119
+eyJoaXN0b3J5IjpbMTM0ODg1MDU1OSwtMjEyOTYxNTI2N119
 -->
