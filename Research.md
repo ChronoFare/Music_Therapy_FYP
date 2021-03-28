@@ -18,9 +18,9 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 ## **References**
 
 1. https://pubmed.ncbi.nlm.nih.gov/33050396/
-2. https://pubmed.ncbi.nlm.nih.gov/29578520/
-3. https://bit.ly/31rUEE0
-4. 
+2.   https://pubmed.ncbi.nlm.nih.gov/29578520/
+3. Role of video games in cerebral palsy rehabilitation https://bit.ly/31rUEE0
+4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQ5MTQwMV19
+eyJoaXN0b3J5IjpbMTE4ODAxODYzNF19
 -->
