@@ -3,7 +3,7 @@
 ### Benefits of video game rehabilitation and Virtual Reality (VR) therapy
 Research shows that "VR-based rehabilitation combined with conventional occupational therapy (COT) may improve the upper extremity functions and decrease caregiver burden among children with CP" [1]. Moreover, benefits include increasing interactivity and motivation [1]. Game based therapy is also time efficient, low cost, easy to implement anf clinically effective [2]. 
 
-Games can be categorized to the patients needed area of treatment within the upper extremities region; categories can include coordination and timing. Based on the patient's progress, the OT can customise the difficulty level [1]. This allows moderation of the complexity of the movements required.
+Games can be categorized to the patients needed area of treatment within the upper extremities region; categories can include coordination and timing. Based on the patient's progress, the occupational therapists (OT) can customise the difficulty level [1]. This allows moderation of the complexity of the movements required.
 
 
 ### Chosen Assessment Test for M-TAG 
@@ -16,7 +16,9 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 3. Focuses on the technical part, not the musical aspect of therapy.
 
 ### Solution: Integrating Music Therapy with VR Rehabilitation
-By marrying the idea of music therapy with VR rehabilitation, we can reap the benefits of engaging the patient's interests while keep 
+By marrying the idea of music therapy with VR rehabilitation, we can reap the benefits of engaging the patient's interests while keeping their rehabilitation program on track. 
+
+By tracking the patients movements, feedback can be used by the OT to make 
 
 ### References
 
@@ -26,6 +28,5 @@ By marrying the idea of music therapy with VR rehabilitation, we can reap the be
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE0OTQ3ODMsLTIxMjk2MTUyNjddfQ
-==
+eyJoaXN0b3J5IjpbMTAxNDYwNDcwNCwtMjEyOTYxNTI2N119
 -->
