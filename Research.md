@@ -15,7 +15,7 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 2. Expensive
 3. Focuses on the technical part, not the musical aspect of therapy.
 
-
+### Solution: Integrating Music Therapy with Video 
 
 ### References
 
@@ -25,5 +25,5 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk2MTUyNjddfQ==
+eyJoaXN0b3J5IjpbMTg2NzY5NzUzNCwtMjEyOTYxNTI2N119
 -->
