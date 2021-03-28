@@ -1,7 +1,9 @@
 ## Music Therapy Assessment Game (M-TAG)
 
 ### Benefits of video game rehabilitation and Virtual Reality (VR) therapy
-Research shows that "VR-based rehabilitation combined with COT may improve the upper extremity functions and decrease caregiver burden among children with CP" [1]. Moreover, benefits include 
+Research shows that "VR-based rehabilitation combined with COT may improve the upper extremity functions and decrease caregiver burden among children with CP" [1]. Moreover, benefits include increasing interactivity and motivation [1].
+
+Games can be categorized to treat
 
 
 ### Chosen Assessment Test for M-TAG 
@@ -23,5 +25,5 @@ Current advances in technology introduced the [Gloreha Sinfonia](https://www.you
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYyMTQ1MjRdfQ==
+eyJoaXN0b3J5IjpbOTcwODE2NjU4XX0=
 -->
