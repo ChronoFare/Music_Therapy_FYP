@@ -16,7 +16,7 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 
 ## TASK: (By Dr Arun Kumar)
  - [ ] Story Telling Game (Associate pictures to game sounds via MIDI)
- - [ ] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
+ - [x] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
  - [ ] Add sustain code to piano notes during songs.
  - [ ] Add auto-adjust sound codes to instrument from dropdown list.
  - [ ] [FINAL STAGE] Integrate Machine Learning from data sourced from games.
@@ -44,10 +44,10 @@ To accustom myself to the new programs required for the project, I have used onl
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMj
-U4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3
-NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNz
-M2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwx
-Mzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2Nz
-E1MjkzMF19
+eyJoaXN0b3J5IjpbLTMwMTgzOTg1MSwtMTgzODY5NjA4MywxMz
+U2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYxMzE5
+MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzND
+ksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwx
+MTY5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4Mj
+QxMjA2MiwtNDY3MTUyOTMwXX0=
 -->
