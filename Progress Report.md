@@ -48,13 +48,14 @@ To accustom myself to the new programs required for the project, I have used onl
 1. Completed feedback for KK hospital; amended the Piano Game by automatically changing the octaves (as requested by KK Hospital) when a specific instrument is selected. 
 2. Wrote the instruction manual for the occupational therapists to refer to when using games, Piano Game and Basketball Game. 
 
-
+ - [ ] work n
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5ODAxNjQ0LC0xMTg5OTQ4NzM5LC0xOD
-M4Njk2MDgzLDEzNTY3MDI5MTQsMTI1ODYzOTczMywtMjY5NjQ5
-NzAwLC0xNjEzMTkyNTkzLC0xMTk3NzcwNDMzLDQyNTk1MjcxMi
-wtMjEzNjk0NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5Mywx
-NzY1Mjk4Nzg0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNz
-k2NTA4LC0xMzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbMTM5MjI2MDc3OCw1OTk4MDE2NDQsLTExOD
+k5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5
+NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0Mz
+MsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0x
+NDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5Mz
+UwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1Mjkz
+MF19
 -->
