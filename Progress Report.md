@@ -31,6 +31,7 @@ To accustom myself to the new programs required for the project, I have used onl
 
 ## Week 2 (22-26 March 2021)
 1. Watched [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  to gain a better grasp of Unity 3D software and its components while also creating a basic game, [Basic] SuperMario Style.
+2. Build MIDI based virtual piano with integrated LEAP controller input.
 
 ## TASK: (By Dr Arun Kumar)
  - [x] Include and learn how to integrate the LEAP motion controller to the wav. piano game. 
@@ -43,11 +44,13 @@ To accustom myself to the new programs required for the project, I have used onl
  - SIMPLE
 
  ## Week 3 (29 March - 2 April 2021)
- 
 1. Completed feedback for KK hospital; amended the Piano Game by automatically changing the octaves (as requested by KK Hospital) when a specific instrument is selected. 
 2. Wrote the instruction manual for games, Piano Game and Basketball Game. 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTM2NDY0OSwtMTE4OTk0ODczOSwtMT
+eyJoaXN0b3J5IjpbLTIwMTQ5MTQ0OCwtMTE4OTk0ODczOSwtMT
 gzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0
 OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MT
 IsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMs
