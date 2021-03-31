@@ -48,10 +48,12 @@ To accustom myself to the new programs required for the project, I have used onl
 1. Completed feedback for KK hospital; amended the Piano Game by automatically changing the octaves (as requested by KK Hospital) when a specific instrument is selected. 
 2. Wrote the instruction manual for the occupational therapists to refer to when using games, Piano Game and Basketball Game. 
 
- - [ ] work n
+## TASK: (By Dr Arun Kumar)
+ - [ ] Work on own assessment project.
+ - [ ] Understand concepts from Basketball Game and Picture Game.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjI2MDc3OCw1OTk4MDE2NDQsLTExOD
+eyJoaXN0b3J5IjpbMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExOD
 k5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5
 NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0Mz
 MsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0x
