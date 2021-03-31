@@ -18,7 +18,7 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
  - [ ] Story Telling Game (Associate pictures to game sounds via MIDI)
  - [x] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
  - [ ] Add sustain code to piano notes during songs.
- - [ ] Add auto-adjust sound codes to instrument from dropdown list.
+ - [x] Add auto-adjust sound codes to instrument from dropdown list.
  - [ ] [FINAL STAGE] Integrate Machine Learning from data sourced from games.
 
 **Conceive**
@@ -43,12 +43,14 @@ To accustom myself to the new programs required for the project, I have used onl
  - SIMPLE
 
  ## Week 3 (29 March - 2 April 2021)
+ 
 1. Completed feedback for KK hospital; amended the Piano Game by automatically changing the octaves (as requested by KK Hospital) when a specific instrument is selected. 
+2. Wrote the instruction manual for games, Piano Game and Basketball Game. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjk2NjE0LC0xMTg5OTQ4NzM5LC0xOD
-M4Njk2MDgzLDEzNTY3MDI5MTQsMTI1ODYzOTczMywtMjY5NjQ5
-NzAwLC0xNjEzMTkyNTkzLC0xMTk3NzcwNDMzLDQyNTk1MjcxMi
-wtMjEzNjk0NTM0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5Mywx
-NzY1Mjk4Nzg0LDExNjkwMDUzNDgsMTM5OTM1MDI5NSwxMDIwNz
-k2NTA4LC0xMzgyNDEyMDYyLC00NjcxNTI5MzBdfQ==
+eyJoaXN0b3J5IjpbMTE3OTM2NDY0OSwtMTE4OTk0ODczOSwtMT
+gzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0
+OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MT
+IsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMs
+MTc2NTI5ODc4NCwxMTY5MDA1MzQ4LDEzOTkzNTAyOTUsMTAyMD
+c5NjUwOCwtMTM4MjQxMjA2MiwtNDY3MTUyOTMwXX0=
 -->
