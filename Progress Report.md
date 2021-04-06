@@ -52,13 +52,15 @@ To accustom myself to the new programs required for the project, I have used onl
  - [ ] Work on own assessment project.
  - [x] Understand concepts from Basketball Game and Picture Game.
 
- ## Week 3 (29 March - 2 April 2021)
+
+ ## Week 4 (5 April- 9 April 2021)
+ Understanding codes for the Basketball Game and the Picture Game.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTM4ODQwNywxNTk5Nzg4Mjk5LDU5OT
-gwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4MywxMzU2NzAy
-OTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYxMzE5MjU5My
-wtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5NDUzNDksLTEx
-NDY1ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4NCwxMTY5MD
-A1MzQ4LDEzOTkzNTAyOTUsMTAyMDc5NjUwOCwtMTM4MjQxMjA2
-MiwtNDY3MTUyOTMwXX0=
+eyJoaXN0b3J5IjpbLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OT
+k4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1Njcw
+MjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OT
+MsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0x
+MTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OT
+AwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIw
+NjIsLTQ2NzE1MjkzMF19
 -->
