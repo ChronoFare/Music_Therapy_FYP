@@ -30,6 +30,8 @@ The Quality of Upper Extremity Skills Test (QUEST) is to be chosen as our measur
 3. Role of video games in cerebral palsy rehabilitation https://bit.ly/31rUEE0
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
+6. Free-hand interaction with leap motion controller for stroke rehabilitation https://escholarship.org/uc/item/4p831550#main
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODQ2NzA3LC0yMTI5NjE1MjY3XX0=
+eyJoaXN0b3J5IjpbLTkyNzA0ODg3MSwyMTE4NDY3MDcsLTIxMj
+k2MTUyNjddfQ==
 -->
