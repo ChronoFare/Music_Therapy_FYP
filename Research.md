@@ -31,8 +31,8 @@ The Quality of Upper Extremity Skills Test (QUEST) is to be chosen as our measur
 4. The Reliability and Validity of the Quality of Upper Extremity Skills Test https://bit.ly/3tZsRa7
 5. GLOREHA SINFONIA https://www.gloreha.com/sinfonia/
 6. Free-hand interaction with leap motion controller for stroke rehabilitation https://escholarship.org/uc/item/4p831550#main
-7. https://www.researchgate.net/publication/337066024_Leap_motion_controlled_video_game-based_therapy_for_upper_limb_rehabilitation_in_patients_with_Parkinson's_disease_a_feasibility_study
+7. Leap motion controlled video game-basedtherapy for upper limb rehabilitation inpatients with Parkinson’s disease: a feasibility study  https://bit.ly/2OsXTrU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzIyMTA0MywtOTI3MDQ4ODcxLDIxMT
+eyJoaXN0b3J5IjpbMTUyNTUyMjA1OCwtOTI3MDQ4ODcxLDIxMT
 g0NjcwNywtMjEyOTYxNTI2N119
 -->
