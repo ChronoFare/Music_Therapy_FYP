@@ -50,14 +50,14 @@ To accustom myself to the new programs required for the project, I have used onl
 
 ## TASK: (By Dr Arun Kumar)
  - [ ] Work on own assessment project.
- - [ ] Understand concepts from Basketball Game and Picture Game.
+ - [x] Understand concepts from Basketball Game and Picture Game.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExOD
-k5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5
-NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0Mz
-MsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0x
-NDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0OCwxMzk5Mz
-UwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIwNjIsLTQ2NzE1Mjkz
-MF19
+eyJoaXN0b3J5IjpbNTIyNDA1Mjk5LDE1OTk3ODgyOTksNTk5OD
+AxNjQ0LC0xMTg5OTQ4NzM5LC0xODM4Njk2MDgzLDEzNTY3MDI5
+MTQsMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNjEzMTkyNTkzLC
+0xMTk3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0
+NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nzg0LDExNjkwMD
+UzNDgsMTM5OTM1MDI5NSwxMDIwNzk2NTA4LC0xMzgyNDEyMDYy
+LC00NjcxNTI5MzBdfQ==
 -->
