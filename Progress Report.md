@@ -58,13 +58,16 @@ To accustom myself to the new programs required for the project, I have used onl
  
 Meet with Dr Kumar : 
 - Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
-- Do new piano game manual and add the border lit, add theme, sky and blank.
+- Do new piano game manual and add the border lit, add theme, sky and blank. 
+- <![endif]-->
+
+Create exe with corresponding path for song,…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDI3MjAxNywzODY3NzkzNDksLTEyOD
-I3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OTk4MDE2
-NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkxNC
-wxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OTMsLTEx
-OTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0xMTQ2NT
-gzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OTAwNTM0
-OCwxMzk5MzUwMjk1XX0=
+eyJoaXN0b3J5IjpbLTIwMjY5NjM3OTMsLTg3NDI3MjAxNywzOD
+Y3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4
+ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwOD
+MsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2
+MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OT
+Q1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3
+ODQsMTE2OTAwNTM0OF19
 -->
