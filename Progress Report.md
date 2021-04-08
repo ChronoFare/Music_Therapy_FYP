@@ -49,7 +49,7 @@ To accustom myself to the new programs required for the project, I have used onl
 2. Wrote the instruction manual for the occupational therapists to refer to when using games, Piano Game and Basketball Game. 
 
 ## TASK: (By Dr Arun Kumar)
- - [ ] Work on own assessment project.
+ - [x] Work on own assessment project.
  - [x] Understand concepts from Basketball Game and Picture Game.
 
 
@@ -62,11 +62,11 @@ Meet with Dr Kumar :
 
 Create exe with corresponding path for song,…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTE1NjU4MSwtODc0MjcyMDE3LDM4Nj
-c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
-Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4My
-wxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYx
-MzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5ND
-UzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4
-NCwxMTY5MDA1MzQ4XX0=
+eyJoaXN0b3J5IjpbNTYzNjg5NTMzLC04NzQyNzIwMTcsMzg2Nz
+c5MzQ5LC0xMjgyNzE3NDcxLC0yMDc1NjU2MjI3LDE1OTk3ODgy
+OTksNTk5ODAxNjQ0LC0xMTg5OTQ4NzM5LC0xODM4Njk2MDgzLD
+EzNTY3MDI5MTQsMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNjEz
+MTkyNTkzLC0xMTk3NzcwNDMzLDQyNTk1MjcxMiwtMjEzNjk0NT
+M0OSwtMTE0NjU4MzczNiwtMTQzODUwMzc5MywxNzY1Mjk4Nzg0
+LDExNjkwMDUzNDhdfQ==
 -->
