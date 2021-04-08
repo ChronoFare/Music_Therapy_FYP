@@ -57,17 +57,17 @@ To accustom myself to the new programs required for the project, I have used onl
  Understanding codes for the Basketball Game and the Picture Game.
  
 Meet with Dr Kumar : 
-- Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
+- EXPORT Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
 - <![endif]-->
 
 Create exe with corresponding path for song,…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY5NjM3OTMsLTg3NDI3MjAxNywzOD
-Y3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4
-ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwOD
-MsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2
-MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OT
-Q1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3
-ODQsMTE2OTAwNTM0OF19
+eyJoaXN0b3J5IjpbMTUyODUzMTA4NSwtODc0MjcyMDE3LDM4Nj
+c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
+Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4My
+wxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYx
+MzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIxMzY5ND
+UzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMsMTc2NTI5ODc4
+NCwxMTY5MDA1MzQ4XX0=
 -->
