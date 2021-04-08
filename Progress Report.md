@@ -59,11 +59,10 @@ To accustom myself to the new programs required for the project, I have used onl
 Meet with Dr Kumar : 
 - EXPORT Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
-- <![endif]-->
 
 Create exe with corresponding path for song,…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODUzMTA4NSwtODc0MjcyMDE3LDM4Nj
+eyJoaXN0b3J5IjpbMjA4OTE1NjU4MSwtODc0MjcyMDE3LDM4Nj
 c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
 Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4My
 wxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYx
