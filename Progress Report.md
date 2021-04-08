@@ -55,12 +55,15 @@ To accustom myself to the new programs required for the project, I have used onl
 
  ## Week 4 (5 April- 9 April 2021)
  Understanding codes for the Basketball Game and the Picture Game.
+ 
+Meet with Dr Kumar : 
+Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OT
-k4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1Njcw
-MjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2MTMxOTI1OT
-MsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0yMTM2OTQ1MzQ5LC0x
-MTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3NjUyOTg3ODQsMTE2OT
-AwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1MDgsLTEzODI0MTIw
-NjIsLTQ2NzE1MjkzMF19
+eyJoaXN0b3J5IjpbLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMT
+U5OTc4ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2
+OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MD
+AsLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0y
+MTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3Nj
+UyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1
+MDgsLTEzODI0MTIwNjJdfQ==
 -->
