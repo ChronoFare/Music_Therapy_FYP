@@ -58,12 +58,13 @@ To accustom myself to the new programs required for the project, I have used onl
  
 Meet with Dr Kumar : 
 Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
+Do new piano game manual and add the border lit, add theme, sky and blank.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMT
-U5OTc4ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2
-OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MD
-AsLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNzEyLC0y
-MTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkzLDE3Nj
-UyOTg3ODQsMTE2OTAwNTM0OCwxMzk5MzUwMjk1LDEwMjA3OTY1
-MDgsLTEzODI0MTIwNjJdfQ==
+eyJoaXN0b3J5IjpbMzg2Nzc5MzQ5LC0xMjgyNzE3NDcxLC0yMD
+c1NjU2MjI3LDE1OTk3ODgyOTksNTk5ODAxNjQ0LC0xMTg5OTQ4
+NzM5LC0xODM4Njk2MDgzLDEzNTY3MDI5MTQsMTI1ODYzOTczMy
+wtMjY5NjQ5NzAwLC0xNjEzMTkyNTkzLC0xMTk3NzcwNDMzLDQy
+NTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0NjU4MzczNiwtMTQzOD
+UwMzc5MywxNzY1Mjk4Nzg0LDExNjkwMDUzNDgsMTM5OTM1MDI5
+NSwxMDIwNzk2NTA4XX0=
 -->
