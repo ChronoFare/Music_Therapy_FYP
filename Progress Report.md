@@ -61,14 +61,16 @@ Meet with Dr Kumar :
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
 
 Create exe with corresponding path for song,…
-use mesh as layer on top
+- use mesh as layer on top for paino game
+- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDM0ODQxOCw1NjM2ODk1MzMsLTg3ND
-I3MjAxNywzODY3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYy
-MjcsMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLT
-E4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2
-NDk3MDAsLTE2MTMxOTI1OTMsLTExOTc3NzA0MzMsNDI1OTUyNz
-EyLC0yMTM2OTQ1MzQ5LC0xMTQ2NTgzNzM2LC0xNDM4NTAzNzkz
-LDE3NjUyOTg3ODRdfQ==
+eyJoaXN0b3J5IjpbNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0Mj
+cyMDE3LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIy
+NywxNTk5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMT
+gzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0
+OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MT
+IsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMs
+MTc2NTI5ODc4NF19
 -->
