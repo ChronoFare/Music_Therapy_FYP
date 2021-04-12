@@ -61,10 +61,10 @@ Meet with Dr Kumar :
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
 
 Create exe with corresponding path for song,…
-mesh 
+use mesh as layer on top
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODkwOTYzNiw1NjM2ODk1MzMsLTg3ND
+eyJoaXN0b3J5IjpbMTA5NDM0ODQxOCw1NjM2ODk1MzMsLTg3ND
 I3MjAxNywzODY3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYy
 MjcsMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLT
 E4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2
