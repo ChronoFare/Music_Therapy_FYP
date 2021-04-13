@@ -59,14 +59,14 @@ To accustom myself to the new programs required for the project, I have used onl
 Meet with Dr Kumar : 
 - EXPORT Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
- - [ ] Create exe with corresponding path for song,…
+ - [ ] Create exe with corresponding path for song, so that song can be assessed outside game.
  - [ ] use mesh as layer on top for piano game (c)hange the sprite to outside
  - [ ] do one song using text.txt file
- - [ ] create name in
+ - [x] create name interface
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzU4OTQ4MiwxNzc0ODk5NDYzLDczNT
+eyJoaXN0b3J5IjpbMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLDczNT
 cxNzYyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzODY3NzkzNDks
 LTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OT
 k4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1Njcw
