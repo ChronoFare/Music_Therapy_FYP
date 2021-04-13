@@ -59,6 +59,10 @@ To accustom myself to the new programs required for the project, I have used onl
 Meet with Dr Kumar : 
 - EXPORT Data to give to Yx: PIANO GAME (Name, game, date, completed in what duration.)
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
+
+
+
+ ## Week 5 (12 April- 16 April 2021)
  - [x] Create exe with corresponding path for song, so that song can be assessed outside game. 
  - [x] https://github.com/Electronic-Brain/SmartExplorer/blob/master/README.md solution for reading file.
  - [ ] use mesh as layer on top for piano game (c)hange the sprite to outside
@@ -67,11 +71,11 @@ Meet with Dr Kumar :
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3Nz
-Q4OTk0NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3
-LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNT
-k5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5
-NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMC
-wtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MTIsLTIx
-MzY5NDUzNDldfQ==
+eyJoaXN0b3J5IjpbLTE3NTkyNDI2MjcsMTU0NTY1NTk3NSwxND
+QzMDUyOTU1LDE3NzQ4OTk0NjMsNzM1NzE3NjI2LDU2MzY4OTUz
+MywtODc0MjcyMDE3LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMj
+A3NTY1NjIyNywxNTk5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0
+ODczOSwtMTgzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3Mz
+MsLTI2OTY0OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0
+MjU5NTI3MTJdfQ==
 -->
