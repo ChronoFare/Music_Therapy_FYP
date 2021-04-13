@@ -61,16 +61,18 @@ Meet with Dr Kumar :
 - Do new piano game manual and add the border lit, add theme, sky and blank. 
 
 Create exe with corresponding path for song,…
-- use mesh as layer on top for paino game
+- use mesh as layer on top for piano game
+- do one song using text.txt file
+- change the sprite to outside
 - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0Mj
-cyMDE3LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIy
-NywxNTk5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMT
-gzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0
-OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0MjU5NTI3MT
-IsLTIxMzY5NDUzNDksLTExNDY1ODM3MzYsLTE0Mzg1MDM3OTMs
-MTc2NTI5ODc4NF19
+eyJoaXN0b3J5IjpbMTc3NDg5OTQ2Myw3MzU3MTc2MjYsNTYzNj
+g5NTMzLC04NzQyNzIwMTcsMzg2Nzc5MzQ5LC0xMjgyNzE3NDcx
+LC0yMDc1NjU2MjI3LDE1OTk3ODgyOTksNTk5ODAxNjQ0LC0xMT
+g5OTQ4NzM5LC0xODM4Njk2MDgzLDEzNTY3MDI5MTQsMTI1ODYz
+OTczMywtMjY5NjQ5NzAwLC0xNjEzMTkyNTkzLC0xMTk3NzcwND
+MzLDQyNTk1MjcxMiwtMjEzNjk0NTM0OSwtMTE0NjU4MzczNiwt
+MTQzODUwMzc5M119
 -->
