@@ -68,14 +68,15 @@ Meet with Dr Kumar :
  - [ ] use mesh as layer on top for piano game (c)hange the sprite to outside
  - [ ] do one song using text.txt file
  - [x] create name interface
+ - [x] do trial run of SGH Learning Fiesta 
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkyNDI2MjcsMTU0NTY1NTk3NSwxND
-QzMDUyOTU1LDE3NzQ4OTk0NjMsNzM1NzE3NjI2LDU2MzY4OTUz
-MywtODc0MjcyMDE3LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMj
-A3NTY1NjIyNywxNTk5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0
-ODczOSwtMTgzODY5NjA4MywxMzU2NzAyOTE0LDEyNTg2Mzk3Mz
-MsLTI2OTY0OTcwMCwtMTYxMzE5MjU5MywtMTE5Nzc3MDQzMyw0
-MjU5NTI3MTJdfQ==
+eyJoaXN0b3J5IjpbMTM1MTI4MDI4MSwtMTc1OTI0MjYyNywxNT
+Q1NjU1OTc1LDE0NDMwNTI5NTUsMTc3NDg5OTQ2Myw3MzU3MTc2
+MjYsNTYzNjg5NTMzLC04NzQyNzIwMTcsMzg2Nzc5MzQ5LC0xMj
+gyNzE3NDcxLC0yMDc1NjU2MjI3LDE1OTk3ODgyOTksNTk5ODAx
+NjQ0LC0xMTg5OTQ4NzM5LC0xODM4Njk2MDgzLDEzNTY3MDI5MT
+QsMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNjEzMTkyNTkzLC0x
+MTk3NzcwNDMzXX0=
 -->
