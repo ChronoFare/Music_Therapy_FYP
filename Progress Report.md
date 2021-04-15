@@ -69,14 +69,21 @@ Meet with Dr Kumar :
  - [ ] do one song using text.txt file
  - [x] create name interface
  - [x] do trial run of SGH Learning Fiesta 
+
+## TO DO CHECKLIST
+
+ - [ ] Write and prepare script for SGH 
+ - [ ] Write M-TAG proposal and do game.
+ - [ ] Write SDL Wk1-6 + weekly journal
+ - [ ] 
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTI4MDI4MSwtMTc1OTI0MjYyNywxNT
-Q1NjU1OTc1LDE0NDMwNTI5NTUsMTc3NDg5OTQ2Myw3MzU3MTc2
-MjYsNTYzNjg5NTMzLC04NzQyNzIwMTcsMzg2Nzc5MzQ5LC0xMj
-gyNzE3NDcxLC0yMDc1NjU2MjI3LDE1OTk3ODgyOTksNTk5ODAx
-NjQ0LC0xMTg5OTQ4NzM5LC0xODM4Njk2MDgzLDEzNTY3MDI5MT
-QsMTI1ODYzOTczMywtMjY5NjQ5NzAwLC0xNjEzMTkyNTkzLC0x
-MTk3NzcwNDMzXX0=
+eyJoaXN0b3J5IjpbLTg3Nzk1MDk5MCwxMzUxMjgwMjgxLC0xNz
+U5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5
+NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzOD
+Y3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4
+ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwOD
+MsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2
+MTMxOTI1OTNdfQ==
 -->
