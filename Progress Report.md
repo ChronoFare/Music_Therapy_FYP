@@ -70,23 +70,23 @@ Meet with Dr Kumar :
  - [x] create name interface
  - [x] do trial run of SGH Learning Fiesta 
 
-## TO DO CHECKLIST (week 5)
+## TO DO CHECKLIST (Week 5)
 
- - [ ] Write and prepare script for SGH 
- - [ ] Write M-TAG proposal and do game.
- - [ ] Write SDL Wk1-6 + weekly journal
+ - [ ] Write and prepare **script** for SGH 
+ - [ ] Write M-TAG proposal and **Do game**.
+ - [ ] Write **SDL** Wk1-6 + weekly journal
  - [ ] Do the external borders for backlight keys
  - [ ] create the latest .exe for file
- - [ ] try to collect data from unity using .py
+ - [ ] try to **collect data** from unity using .py
 
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MDIzNjUxLDEzNTEyODAyODEsLTE3NT
-kyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OTk0
-NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4Nj
-c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
-Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4My
-wxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYx
-MzE5MjU5M119
+eyJoaXN0b3J5IjpbMTc4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMj
+gwMjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1
+NSwxNzc0ODk5NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3ND
+I3MjAxNywzODY3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYy
+MjcsMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLT
+E4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2
+NDk3MDBdfQ==
 -->
