@@ -76,17 +76,17 @@ Meet with Dr Kumar :
  - [ ] Write M-TAG proposal and **Do game**.
  - [ ] Write **SDL** Wk1-6 + weekly journal
  - [x] Do the external borders for backlight keys
- - [ ] create the latest .exe for file
+ - [x] create the latest .exe for file
  - [ ] try to **collect data** from unity using .py
 
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODE4NjcsMTc4NjA2NTYzLDYxOTAyMz
-Y1MSwxMzUxMjgwMjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5NzUs
-MTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLDczNTcxNzYyNiw1NjM2OD
-k1MzMsLTg3NDI3MjAxNywzODY3NzkzNDksLTEyODI3MTc0NzEs
-LTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OTk4MDE2NDQsLTExOD
-k5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkxNCwxMjU4NjM5
-NzMzXX0=
+eyJoaXN0b3J5IjpbOTUxMTgwNTEsOTU4ODE4NjcsMTc4NjA2NT
+YzLDYxOTAyMzY1MSwxMzUxMjgwMjgxLC0xNzU5MjQyNjI3LDE1
+NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLDczNTcxNz
+YyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzODY3NzkzNDksLTEy
+ODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OTk4MD
+E2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkx
+NF19
 -->
