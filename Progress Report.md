@@ -66,7 +66,7 @@ Meet with Dr Kumar :
  - [x] Create exe with corresponding path for song, so that song can be assessed outside game. 
  - [x] https://github.com/Electronic-Brain/SmartExplorer/blob/master/README.md solution for reading file.
  - [ ] use mesh as layer on top for piano game (c)hange the sprite to outside
- - [ ] do one song using text.txt file
+ - [x] do one song using text.txt file
  - [x] create name interface
  - [x] do trial run of SGH Learning Fiesta 
 
@@ -75,15 +75,18 @@ Meet with Dr Kumar :
  - [ ] Write and prepare script for SGH 
  - [ ] Write M-TAG proposal and do game.
  - [ ] Write SDL Wk1-6 + weekly journal
- - [ ] 
+ - [ ] Do the external borders for backlight keys
+ - [ ] create the latest .exe for file
+ - [ ] try to collect data from unity using .py
+
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzk1MDk5MCwxMzUxMjgwMjgxLC0xNz
-U5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5
-NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzOD
-Y3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4
-ODI5OSw1OTk4MDE2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwOD
-MsMTM1NjcwMjkxNCwxMjU4NjM5NzMzLC0yNjk2NDk3MDAsLTE2
-MTMxOTI1OTNdfQ==
+eyJoaXN0b3J5IjpbNjE3MzE5NDE3LDEzNTEyODAyODEsLTE3NT
+kyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OTk0
+NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4Nj
+c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
+Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4My
+wxMzU2NzAyOTE0LDEyNTg2Mzk3MzMsLTI2OTY0OTcwMCwtMTYx
+MzE5MjU5M119
 -->
