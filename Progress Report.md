@@ -70,7 +70,7 @@ Meet with Dr Kumar :
  - [x] create name interface
  - [x] do trial run of SGH Learning Fiesta 
 
-## TO DO CHECKLIST
+## TO DO CHECKLIST (week 5)
 
  - [ ] Write and prepare script for SGH 
  - [ ] Write M-TAG proposal and do game.
@@ -82,7 +82,7 @@ Meet with Dr Kumar :
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MzE5NDE3LDEzNTEyODAyODEsLTE3NT
+eyJoaXN0b3J5IjpbNjE5MDIzNjUxLDEzNTEyODAyODEsLTE3NT
 kyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OTk0
 NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4Nj
 c3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4
