@@ -15,7 +15,7 @@ For this project, programs we are using include:
 Dr. Arun Kumar outlined the core problems of the project to be resolved by me in the following weeks.
 
 ## TASK: (By Dr Arun Kumar)
- - [ ] Story Telling Game (Associate pictures to game sounds via MIDI)
+ - [x] Story Telling Game (Associate pictures to game sounds via MIDI) <-- SEAN
  - [x] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
  - [ ] Add sustain code to piano notes during songs.
  - [x] Add auto-adjust sound codes to instrument from dropdown list.
@@ -65,7 +65,7 @@ Meet with Dr Kumar :
  ## Week 5 (12 April- 16 April 2021)
  - [x] Create exe with corresponding path for song, so that song can be assessed outside game. 
  - [x] https://github.com/Electronic-Brain/SmartExplorer/blob/master/README.md solution for reading file.
- - [ ] use mesh as layer on top for piano game (c)hange the sprite to outside
+ - [x] use mesh as layer on top for piano game (c)hange the sprite to outside
  - [x] do one song using text.txt file
  - [x] create name interface
  - [x] do trial run of SGH Learning Fiesta 
@@ -82,11 +82,11 @@ Meet with Dr Kumar :
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMTgwNTEsOTU4ODE4NjcsMTc4NjA2NT
-YzLDYxOTAyMzY1MSwxMzUxMjgwMjgxLC0xNzU5MjQyNjI3LDE1
-NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLDczNTcxNz
-YyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzODY3NzkzNDksLTEy
-ODI3MTc0NzEsLTIwNzU2NTYyMjcsMTU5OTc4ODI5OSw1OTk4MD
-E2NDQsLTExODk5NDg3MzksLTE4Mzg2OTYwODMsMTM1NjcwMjkx
-NF19
+eyJoaXN0b3J5IjpbLTg2MDQxNDE1MCw5NTExODA1MSw5NTg4MT
+g2NywxNzg2MDY1NjMsNjE5MDIzNjUxLDEzNTEyODAyODEsLTE3
+NTkyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OT
+k0NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4
+Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nz
+g4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4
+M119
 -->
