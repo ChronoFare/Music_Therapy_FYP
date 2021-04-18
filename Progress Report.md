@@ -72,7 +72,7 @@ Meet with Dr Kumar :
 
 ## TO DO CHECKLIST (Week 5)
 
- - [ ] Write and prepare **script** for SGH 
+ - [x] Write and prepare **script** for SGH 
  - [ ] Write M-TAG proposal and **Do game**.
  - [ ] Write **SDL** Wk1-6 + weekly journal
  - [x] Do the external borders for backlight keys
@@ -82,11 +82,11 @@ Meet with Dr Kumar :
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDQxNDE1MCw5NTExODA1MSw5NTg4MT
-g2NywxNzg2MDY1NjMsNjE5MDIzNjUxLDEzNTEyODAyODEsLTE3
-NTkyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OT
-k0NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4
-Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nz
-g4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODczOSwtMTgzODY5NjA4
-M119
+eyJoaXN0b3J5IjpbLTE2ODM0MTQxMjYsLTg2MDQxNDE1MCw5NT
+ExODA1MSw5NTg4MTg2NywxNzg2MDY1NjMsNjE5MDIzNjUxLDEz
+NTEyODAyODEsLTE3NTkyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMD
+UyOTU1LDE3NzQ4OTk0NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywt
+ODc0MjcyMDE3LDM4Njc3OTM0OSwtMTI4MjcxNzQ3MSwtMjA3NT
+Y1NjIyNywxNTk5Nzg4Mjk5LDU5OTgwMTY0NCwtMTE4OTk0ODcz
+OV19
 -->
