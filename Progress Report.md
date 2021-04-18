@@ -74,7 +74,7 @@ Meet with Dr Kumar :
 
  - [x] Write and prepare **script** for SGH 
  - [ ] Write M-TAG proposal and **Do game**.
- - [ ] Write **SDL** Wk1-6 + weekly journal
+ - [ ] Write **SDL** Wk1-6 + weekly journal(Done)
  - [x] Do the external borders for backlight keys
  - [x] create the latest .exe for file
  - [ ] try to **collect data** from unity using .py
@@ -82,7 +82,7 @@ Meet with Dr Kumar :
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM0MTQxMjYsLTg2MDQxNDE1MCw5NT
+eyJoaXN0b3J5IjpbLTEwNTM2NDQzMDMsLTg2MDQxNDE1MCw5NT
 ExODA1MSw5NTg4MTg2NywxNzg2MDY1NjMsNjE5MDIzNjUxLDEz
 NTEyODAyODEsLTE3NTkyNDI2MjcsMTU0NTY1NTk3NSwxNDQzMD
 UyOTU1LDE3NzQ4OTk0NjMsNzM1NzE3NjI2LDU2MzY4OTUzMywt
