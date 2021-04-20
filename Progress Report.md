@@ -83,8 +83,8 @@ Meet with Dr Kumar :
 
  ## Week 6 (19 April- 23 April 2021)
  
- - [ ] Created a new save method to save name, and time of game
- - [ ] make game graphics more crisp
+ - [x] Created a new save method to save name, and time of game
+ - [x] make game graphics more crisp using TextMeshPro, so no more blurry images/text/buttons.
 
 input name
 find name file (on value change)
@@ -92,11 +92,11 @@ find name file (on value change)
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NzY2MDE3LC00NjI1OTI4NzEsLTEwNT
-M2NDQzMDMsLTg2MDQxNDE1MCw5NTExODA1MSw5NTg4MTg2Nywx
-Nzg2MDY1NjMsNjE5MDIzNjUxLDEzNTEyODAyODEsLTE3NTkyND
-I2MjcsMTU0NTY1NTk3NSwxNDQzMDUyOTU1LDE3NzQ4OTk0NjMs
-NzM1NzE3NjI2LDU2MzY4OTUzMywtODc0MjcyMDE3LDM4Njc3OT
-M0OSwtMTI4MjcxNzQ3MSwtMjA3NTY1NjIyNywxNTk5Nzg4Mjk5
-XX0=
+eyJoaXN0b3J5IjpbLTEwMjc2OTc2OTAsLTQ2MjU5Mjg3MSwtMT
+A1MzY0NDMwMywtODYwNDE0MTUwLDk1MTE4MDUxLDk1ODgxODY3
+LDE3ODYwNjU2Myw2MTkwMjM2NTEsMTM1MTI4MDI4MSwtMTc1OT
+I0MjYyNywxNTQ1NjU1OTc1LDE0NDMwNTI5NTUsMTc3NDg5OTQ2
+Myw3MzU3MTc2MjYsNTYzNjg5NTMzLC04NzQyNzIwMTcsMzg2Nz
+c5MzQ5LC0xMjgyNzE3NDcxLC0yMDc1NjU2MjI3LDE1OTk3ODgy
+OTldfQ==
 -->
