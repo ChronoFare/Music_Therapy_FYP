@@ -85,6 +85,7 @@ Meet with Dr Kumar :
  
  - [x] Created a new save method to save name, and time of game
  - [x] make game graphics more crisp using TextMeshPro, so no more blurry images/text/buttons.
+ - [x] created timer based on music start/stop
 
 input name
 find name file (on value change)
@@ -92,11 +93,11 @@ find name file (on value change)
        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc2OTc2OTAsLTQ2MjU5Mjg3MSwtMT
-A1MzY0NDMwMywtODYwNDE0MTUwLDk1MTE4MDUxLDk1ODgxODY3
-LDE3ODYwNjU2Myw2MTkwMjM2NTEsMTM1MTI4MDI4MSwtMTc1OT
-I0MjYyNywxNTQ1NjU1OTc1LDE0NDMwNTI5NTUsMTc3NDg5OTQ2
-Myw3MzU3MTc2MjYsNTYzNjg5NTMzLC04NzQyNzIwMTcsMzg2Nz
-c5MzQ5LC0xMjgyNzE3NDcxLC0yMDc1NjU2MjI3LDE1OTk3ODgy
-OTldfQ==
+eyJoaXN0b3J5IjpbMTg2ODc2NTg0MCwtMTAyNzY5NzY5MCwtND
+YyNTkyODcxLC0xMDUzNjQ0MzAzLC04NjA0MTQxNTAsOTUxMTgw
+NTEsOTU4ODE4NjcsMTc4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMj
+gwMjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1
+NSwxNzc0ODk5NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3ND
+I3MjAxNywzODY3NzkzNDksLTEyODI3MTc0NzEsLTIwNzU2NTYy
+MjddfQ==
 -->
