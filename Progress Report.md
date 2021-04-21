@@ -83,22 +83,18 @@ Meet with Dr Kumar :
 
  ## Week 6 (19 April- 23 April 2021)
  
- - [ ] [Learn](https://www.w3schools.com/js/js_json_syntax.asp) JSON format to implement in game.
+ - [x] [Learn](https://www.w3schools.com/js/js_json_syntax.asp) JSON format to implement in game.
  - [x] Created a new save method to save name, and time of game
  - [x] make game graphics more crisp using TextMeshPro, so no more blurry images/text/buttons.
  - [x] created timer based on music start/stop
 
-input name
-find name file (on value change)
-
-       
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg5MzE1MjcsMTg2ODc2NTg0MCwtMT
-AyNzY5NzY5MCwtNDYyNTkyODcxLC0xMDUzNjQ0MzAzLC04NjA0
-MTQxNTAsOTUxMTgwNTEsOTU4ODE4NjcsMTc4NjA2NTYzLDYxOT
-AyMzY1MSwxMzUxMjgwMjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5
-NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLDczNTcxNzYyNiw1Nj
-M2ODk1MzMsLTg3NDI3MjAxNywzODY3NzkzNDksLTEyODI3MTc0
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDA1MzY2ODUsLTE2OTg5MzE1MjcsMT
+g2ODc2NTg0MCwtMTAyNzY5NzY5MCwtNDYyNTkyODcxLC0xMDUz
+NjQ0MzAzLC04NjA0MTQxNTAsOTUxMTgwNTEsOTU4ODE4NjcsMT
+c4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMjgwMjgxLC0xNzU5MjQy
+NjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLD
+czNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzODY3Nzkz
+NDldfQ==
 -->
