@@ -87,14 +87,16 @@ Meet with Dr Kumar :
  - [x] Created a new save method to save name, and time of game
  - [x] make game graphics more crisp using TextMeshPro, so no more blurry images/text/buttons.
  - [x] created timer based on music start/stop
+ - [x] created IU for save menu
+ - [x] created button to close open save menu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1MzY2ODUsLTE2OTg5MzE1MjcsMT
-g2ODc2NTg0MCwtMTAyNzY5NzY5MCwtNDYyNTkyODcxLC0xMDUz
-NjQ0MzAzLC04NjA0MTQxNTAsOTUxMTgwNTEsOTU4ODE4NjcsMT
-c4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMjgwMjgxLC0xNzU5MjQy
-NjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NSwxNzc0ODk5NDYzLD
-czNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3MjAxNywzODY3Nzkz
-NDldfQ==
+eyJoaXN0b3J5IjpbLTE1NjA5NjQxMjksLTEzMDA1MzY2ODUsLT
+E2OTg5MzE1MjcsMTg2ODc2NTg0MCwtMTAyNzY5NzY5MCwtNDYy
+NTkyODcxLC0xMDUzNjQ0MzAzLC04NjA0MTQxNTAsOTUxMTgwNT
+EsOTU4ODE4NjcsMTc4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMjgw
+MjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NS
+wxNzc0ODk5NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3
+MjAxN119
 -->
