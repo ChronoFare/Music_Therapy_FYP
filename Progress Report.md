@@ -95,10 +95,12 @@ Meet with Dr Kumar :
 
  ## Week 7 (26 April- 30 April 2021)
 To complete:
+ - [ ] Practice speech for SGH200 on Thursday
+ - [ ] 
 
 ### TASK: (By Dr Arun Kumar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3MTA1NDgsODA1Njk5Mjc1LC0xNT
+eyJoaXN0b3J5IjpbLTEwNTMyMDE5MzEsODA1Njk5Mjc1LC0xNT
 YwOTY0MTI5LC0xMzAwNTM2Njg1LC0xNjk4OTMxNTI3LDE4Njg3
 NjU4NDAsLTEwMjc2OTc2OTAsLTQ2MjU5Mjg3MSwtMTA1MzY0ND
 MwMywtODYwNDE0MTUwLDk1MTE4MDUxLDk1ODgxODY3LDE3ODYw
