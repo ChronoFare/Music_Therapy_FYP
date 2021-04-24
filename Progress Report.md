@@ -74,7 +74,7 @@ Meet with Dr Kumar :
 
  - [x] Write and prepare **script** for SGH 
  - [ ] Write M-TAG proposal and **Do game**.
- - [ ] Write **SDL** Wk1-6 + weekly journal(Done)
+ - [x] Weekly journal(Done)
  - [x] Do the external borders for backlight keys
  - [x] create the latest .exe for file
  - [x] try to **collect data** from unity using .py
@@ -89,14 +89,15 @@ Meet with Dr Kumar :
  - [x] created timer based on music start/stop
  - [x] created IU for save menu
  - [x] created button to close open save menu
+ - [ ] Write **SDL** Wk1-6
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA5NjQxMjksLTEzMDA1MzY2ODUsLT
-E2OTg5MzE1MjcsMTg2ODc2NTg0MCwtMTAyNzY5NzY5MCwtNDYy
-NTkyODcxLC0xMDUzNjQ0MzAzLC04NjA0MTQxNTAsOTUxMTgwNT
-EsOTU4ODE4NjcsMTc4NjA2NTYzLDYxOTAyMzY1MSwxMzUxMjgw
-MjgxLC0xNzU5MjQyNjI3LDE1NDU2NTU5NzUsMTQ0MzA1Mjk1NS
-wxNzc0ODk5NDYzLDczNTcxNzYyNiw1NjM2ODk1MzMsLTg3NDI3
-MjAxN119
+eyJoaXN0b3J5IjpbODA1Njk5Mjc1LC0xNTYwOTY0MTI5LC0xMz
+AwNTM2Njg1LC0xNjk4OTMxNTI3LDE4Njg3NjU4NDAsLTEwMjc2
+OTc2OTAsLTQ2MjU5Mjg3MSwtMTA1MzY0NDMwMywtODYwNDE0MT
+UwLDk1MTE4MDUxLDk1ODgxODY3LDE3ODYwNjU2Myw2MTkwMjM2
+NTEsMTM1MTI4MDI4MSwtMTc1OTI0MjYyNywxNTQ1NjU1OTc1LD
+E0NDMwNTI5NTUsMTc3NDg5OTQ2Myw3MzU3MTc2MjYsNTYzNjg5
+NTMzXX0=
 -->
