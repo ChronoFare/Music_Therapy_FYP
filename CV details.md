@@ -9,7 +9,9 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
 ## Accomplishments
- 2x Recipient of EEE Director’s Honour Roll (PFP, Year 1)  2x Recipent of M.O.E. Academic Achievement (2019, 2020)
+
+ - 2x Recipient of EEE Director’s Honour Roll (PFP, Year 1)
+ - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
 ## Competitions and Events
  - Presented FYP at the Singapore General Hospital SGH200 Learning Fiesta.
@@ -23,6 +25,6 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5ODM3NTAwLC0zMzMxNzgzNDcsLTEzMz
-k2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbMjA0OTMzOTI5OCwtMzMzMTc4MzQ3LC0xMz
+M5NjE5Mzc2XX0=
 -->
