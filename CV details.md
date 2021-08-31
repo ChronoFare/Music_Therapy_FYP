@@ -2,15 +2,22 @@
 Aerospace
 ## Technical Experience
 
+## Education
+
+
 ## Accomplishments
-Created and enhanced an upper limb rehabilitation system using novel technology (Leap Motion Controller)
+
+ - Created and enhanced an upper limb rehabilitation system using novel technology (Leap Motion Controller). 
 
 ## Languages
 English: Native
 Chinese: Spoken
-Korean
+Korean: Conversational
+
+## 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1OTM4NjEyXX0=
+eyJoaXN0b3J5IjpbLTM4NDIwOTI3M119
 -->
