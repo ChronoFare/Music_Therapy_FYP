@@ -38,10 +38,11 @@ Korean: Conversational
 ## Technical Skills
 Programming Languages: C++, C#, Python
 Engineering Design: AutoCAD, Autodesk, Multisim 10.1
-Design: Adobe Il
+Design: Adobe Illustrator & Premerie Pro
+Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjQ0MDQwMywtMzMzMTc4MzQ3LC0xMz
-M5NjE5Mzc2XX0=
+eyJoaXN0b3J5IjpbNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMz
+k2MTkzNzZdfQ==
 -->
