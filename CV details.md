@@ -9,7 +9,7 @@ Notable Awards:
 
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
- - Created and enhanced an upper limb rehabilitation system using novel technology (Leap Motion Controller).
+ - Created and enhanced an upper limb rehabilitation system using novel technology.
  - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
 ## Accomplishments
@@ -28,6 +28,6 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQyMzMyNzEsLTMzMzE3ODM0NywtMT
-MzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbLTcyNjcxMzIwMCwtMzMzMTc4MzQ3LC0xMz
+M5NjE5Mzc2XX0=
 -->
