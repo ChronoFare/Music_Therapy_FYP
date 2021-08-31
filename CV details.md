@@ -1,6 +1,9 @@
 # Nicholas A.K.
-strong textDip
+Aerospace
+## Technical Experience
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDMxNzE2M119
+eyJoaXN0b3J5IjpbMjAyMzk4NDc3NF19
 -->
