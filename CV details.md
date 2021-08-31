@@ -36,10 +36,12 @@ Chinese: Spoken
 Korean: Conversational
 
 ## Technical Skills
-Programming Languages
+Programming Languages: C++, C#, Python
+Engineering Design: AutoCAD, Autodesk, Multisim 10.1
+Design: Adobe Il
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIzNjg0MzQsLTMzMzE3ODM0NywtMT
-MzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbMTM1MjQ0MDQwMywtMzMzMTc4MzQ3LC0xMz
+M5NjE5Mzc2XX0=
 -->
