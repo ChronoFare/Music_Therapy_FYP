@@ -10,7 +10,7 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 
 ## Accomplishments
 
- - 2x Recipient of EEE Director’s Honour Roll (PFP, Year 1)
+ - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
 ## Competitions and Events
@@ -25,6 +25,6 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTMzOTI5OCwtMzMzMTc4MzQ3LC0xMz
-M5NjE5Mzc2XX0=
+eyJoaXN0b3J5IjpbLTE0NjA1MjYyNzQsLTMzMzE3ODM0NywtMT
+MzOTYxOTM3Nl19
 -->
