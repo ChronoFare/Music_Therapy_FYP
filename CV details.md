@@ -1,14 +1,15 @@
 # Nicholas A.K.
 Diploma Student
 ## Education
-Diploma in Aerospace Electronics (DASE), cGPA: 3.959
+Diploma in Aerospace Electronics (DASE), cGPA: 3.97
+Singapore Polytechnic - Singapore *(2018-Present)*
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created and enhanced an upper limb rehabilitation system using novel technology (Leap Motion Controller).
  - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
 ## Accomplishments
-
+ 2x Recipient of EEE Director’s Honour Roll (PFP, Year 1)  2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
 ## Competitions and Events
  - Presented FYP at the Singapore General Hospital SGH200 Learning Fiesta.
@@ -22,6 +23,6 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzE0MDExNSwtMzMzMTc4MzQ3LC0xMz
-M5NjE5Mzc2XX0=
+eyJoaXN0b3J5IjpbMjg5ODM3NTAwLC0zMzMxNzgzNDcsLTEzMz
+k2MTkzNzZdfQ==
 -->
