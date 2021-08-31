@@ -12,12 +12,11 @@ Cambridge ‘N’ Level (NA), EMB3 Score : 6**
 St. Andrew’s Secondary School - Singapore (2012-2017)
 
 Notable Awards:
-
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
  - Recipient of Priscilla Krempl Award (Leadership)
 
 Notable Achievement: 
-Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels A
+ - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels A
 
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
@@ -36,10 +35,11 @@ English: Native
 Chinese: Spoken
 Korean: Conversational
 
-
+## Technical Skills
+Programming Languages
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI4NzQ0NzIsLTMzMzE3ODM0NywtMT
+eyJoaXN0b3J5IjpbLTE0NDIzNjg0MzQsLTMzMzE3ODM0NywtMT
 MzOTYxOTM3Nl19
 -->
