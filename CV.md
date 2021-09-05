@@ -13,14 +13,15 @@ Awards:
 **Cambridge ‘O’ Level Mathematics +
 Cambridge ‘N’ Level (NA), EMB3 Score : 6**
 
-St. Andrew’s Secondary School - Singapore (2012-2017)
+St. Andrew’s Secondary School - Singapore *(2012-2017)*
 
 Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
  - Recipient of Priscilla Krempl Award (Leadership)
 
-Achievement: 
- - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels A
+Achievements: 
+ - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels.
+ - NYAA Silver Award *(2016)*
 
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
@@ -71,9 +72,10 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MT
-E3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1
-MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OT
-g4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTks
-NDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbOTE1OTY3OTYwLDI0MjExNDQ0LDE5ODczOT
+gxMiwxNzI5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQy
+MTUyNDQ3LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMz
+IxLDEwNDYzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0x
+NjM2NjkzMjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5Nj
+E5Mzc2XX0=
 -->
