@@ -3,8 +3,8 @@ Diploma Student
 
 ## Education
 
-### Diploma in Aerospace Electronics (DASE), cGPA: 3.970	
- Singapore Polytechnic - Singapore *(2018-Present)*
+### Diploma in Aerospace Electronics (DASE), cGPA: 3.970
+Singapore Polytechnic - Singapore *(2018-Present)*
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
@@ -78,11 +78,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjc0MjMwOSwxODUxODg4MzcwLC00OD
-k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
-OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
-E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
-NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3ND
-M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzMxNTI0MjEsMTg1MTg4ODM3MCwtND
+g5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4NzQsLTExNTYz
+NDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMz
+AxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4
+NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1Nz
+QzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5
+NTM0XX0=
 -->
