@@ -44,7 +44,12 @@ Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
-## Co
+## Co-Curricular Activities
+- Vice-Chairman, Aerospace Electronics Guild  Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
+- Participant, Mapletree-SCCI Hackathon
+- Expressed creativity to create a product with eco-sustainability in mind. EDGE Scholars Programme (Invitation Only)
+- Trained verbal and written communication skills with current affairs sessions. Overseas Leadership Training (LEAP) Camp
+- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
 ## On The Side
 - Volunteered at Willing Hearts, 
@@ -64,8 +69,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE1NjY5NywtNzIzNTQ3MzAxLDYxMz
-M4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1MywtMTY3NzYyMzg0
-MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLTMzMzE3ODM0NywtMT
-MzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbLTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MT
+MzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4
+NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLT
+EzMzk2MTkzNzZdfQ==
 -->
