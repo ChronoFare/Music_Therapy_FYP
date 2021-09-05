@@ -18,10 +18,10 @@ St. Andrew’s Secondary School - Singapore *(2012-2017)*
 Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
  - Recipient of Priscilla Krempl Award (Leadership)
+ - Recipient of Edusave EAGLES Award
 
 Achievements: 
  - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
- - NYAA Silver Award *(2016)*
 
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
@@ -72,10 +72,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMT
-E1NjM0OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcy
-MiwzMDE3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOT
-A3MTg2NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgz
-LDU3NDM0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0ND
-Q1MDk1MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbMjAwMTgwMjcwLDEwNDQ3MjEwOTgsLTExOD
+gwMjE4NzQsLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4NzM5ODEy
+LDE3Mjk4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNT
+I0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEs
+MTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2Mz
+Y2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkz
+NzZdfQ==
 -->
