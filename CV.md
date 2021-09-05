@@ -64,16 +64,16 @@ Korean: Conversational
 
  - Completed course in: 
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension]
-	 - Conversational Korean
+	 - Conversational Korean:
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNT
-I0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEs
-MTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2Mz
-Y2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkz
-NzZdfQ==
+eyJoaXN0b3J5IjpbMTM5Njc4MDE4NSwzMDE3MzIyODcsMjE3OT
+YzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2NywtNzIzNTQ3MzAx
+LDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1MywtMTY3Nz
+YyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLTMzMzE3ODM0
+NywtMTMzOTYxOTM3Nl19
 -->
