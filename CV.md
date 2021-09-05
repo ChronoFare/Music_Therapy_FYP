@@ -44,7 +44,7 @@ Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
-## 
+## Co
 
 ## On The Side
 - Volunteered at Willing Hearts, 
@@ -64,8 +64,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0Nj
-M2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMy
-NTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkzNzZdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMzE1NjY5NywtNzIzNTQ3MzAxLDYxMz
+M4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1MywtMTY3NzYyMzg0
+MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLTMzMzE3ODM0NywtMT
+MzOTYxOTM3Nl19
 -->
