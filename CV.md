@@ -1,9 +1,10 @@
 # Nicholas A.K.
 Diploma Student
+
 ## Education
 
-**Diploma in Aerospace Electronics (DASE), cGPA: 3.970**	
-Singapore Polytechnic - Singapore *(2018-Present)*
+### Diploma in Aerospace Electronics (DASE), cGPA: 3.970	
+ Singapore Polytechnic - Singapore *(2018-Present)*
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
@@ -77,7 +78,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQwODIwNiwxODUxODg4MzcwLC00OD
+eyJoaXN0b3J5IjpbMTQ0Mjc0MjMwOSwxODUxODg4MzcwLC00OD
 k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
 OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
 E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
