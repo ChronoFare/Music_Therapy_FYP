@@ -41,7 +41,7 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 ## Technical Skills
 Programming Languages: C++, C#, Python
 Engineering Design: AutoCAD, Autodesk, Multisim 10.1
-Design: Adobe Illustrator & Premerie Pro
+Design: Adobe Illustrator & Adobe Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
 ## Co-Curricular Activities
@@ -69,7 +69,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjA0NzExOCwtMTUwOTA3MTg2NywtNz
+eyJoaXN0b3J5IjpbLTY3NjE1OTk2NywtMTUwOTA3MTg2NywtNz
 IzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1
 MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLT
 MzMzE3ODM0NywtMTMzOTYxOTM3Nl19
