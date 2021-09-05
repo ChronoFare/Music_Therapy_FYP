@@ -10,9 +10,7 @@ Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
-**Cambridge ‘O’ Level Mathematics +
-Cambridge ‘N’ Level (NA), EMB3 Score : 6**
-
+### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
 St. Andrew’s Secondary School - Singapore *(2012-2017)*
 
 Awards:
@@ -78,11 +76,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMxNTI0MjEsMTg1MTg4ODM3MCwtND
-g5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4NzQsLTExNTYz
-NDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMz
-AxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4
-NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1Nz
-QzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5
-NTM0XX0=
+eyJoaXN0b3J5IjpbLTQxNzg3MDU4MCwxODUxODg4MzcwLC00OD
+k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
+OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
+E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
+NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3ND
+M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
+MzRdfQ==
 -->
