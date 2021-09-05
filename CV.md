@@ -39,6 +39,8 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  
 ## On The Side
 - Volunteered at Willing Hearts, 
+- Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
+
 ## Languages
 English: Native
 Chinese: Spoken
@@ -52,7 +54,8 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMzgwMzIxLDEwNDYzNjk4ODMsNTc0Mz
-Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
-NCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX0=
+eyJoaXN0b3J5IjpbLTE1OTc0NzYzMjYsNjEzMzgwMzIxLDEwND
+YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
+MjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX
+0=
 -->
