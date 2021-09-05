@@ -52,8 +52,8 @@ Productivity: MS Office, Zoom,  Slack
 - Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
 ## On The Side
-- Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate.
-- Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
+- Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
+- Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
 
 ## Languages
 English: Native
@@ -69,7 +69,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTQ2Mzk4NiwtMTUwOTA3MTg2NywtNz
+eyJoaXN0b3J5IjpbLTU0MjA0NzExOCwtMTUwOTA3MTg2NywtNz
 IzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1
 MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLT
 MzMzE3ODM0NywtMTMzOTYxOTM3Nl19
