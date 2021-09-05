@@ -59,11 +59,10 @@ Productivity: MS Office, Zoom,  Slack
 ## On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
--  Completed course in: 
+-  Completed courses in: 
 	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
-
 
 ## Languages
 English: Native
@@ -78,11 +77,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODc4MTI4NCwxODUxODg4MzcwLC00OD
-k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
-OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
-E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
-NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3ND
-M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
-MzRdfQ==
+eyJoaXN0b3J5IjpbMzU5MzIxMzYxLDE4NTE4ODgzNzAsLTQ4OT
+QyMzg3NCwxMDQ0NzIxMDk4LC0xMTg4MDIxODc0LC0xMTU2MzQ5
+NDM5LDI0MjExNDQ0LDE5ODczOTgxMiwxNzI5ODExNzIyLDMwMT
+czMjI4NywyMTc5NjM5MzEsODQyMTUyNDQ3LC0xNTA5MDcxODY3
+LC03MjM1NDczMDEsNjEzMzgwMzIxLDEwNDYzNjk4ODMsNTc0Mz
+Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
+NF19
 -->
