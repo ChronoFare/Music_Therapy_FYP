@@ -54,6 +54,9 @@ Productivity: MS Office, Zoom,  Slack
 ## On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
+-  Completed course in: 
+	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension]
+	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University]
 
 ## Languages
 English: Native
@@ -62,18 +65,15 @@ Korean: Conversational
 
 ## Relevant Information
 
- - Completed course in: 
-	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension]
-	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University]
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTgxMTcyMiwzMDE3MzIyODcsMjE3OT
-YzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2NywtNzIzNTQ3MzAx
-LDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1MywtMTY3Nz
-YyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLTMzMzE3ODM0
-NywtMTMzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMzAxNz
+MyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4Njcs
+LTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzND
+Q5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0
+LC0zMzMxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
 -->
