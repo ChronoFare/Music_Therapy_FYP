@@ -28,7 +28,7 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 
 
 ## Competitions and Events
- - Mapletree 
+ - Participated in Mapletree-SCCCI River Hongbao Hackathon 2020
  - Presented Final Year Project (FYP) at the Singapore General Hospital SGH200 Learning Fiesta.
  - Participated in Singapore Airlines AppChallenge - Tertiary Student Track 2021 
  - Techblazer Student Awards 2021 (pending)
@@ -47,7 +47,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNj
-M2NjkzMjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5
-Mzc2XX0=
+eyJoaXN0b3J5IjpbMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nz
+c2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgz
+NDcsLTEzMzk2MTkzNzZdfQ==
 -->
