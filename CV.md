@@ -16,7 +16,7 @@ Cambridge ‘N’ Level (NA), EMB3 Score : 6**
 St. Andrew’s Secondary School - Singapore *(2012-2017)*
 
 Awards:
- - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
+ - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
  - Recipient of Priscilla Krempl Award (Leadership)
 
 Achievements: 
@@ -72,10 +72,10 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgwMjE4NzQsLTExNTYzNDk0MzksMj
-QyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMzAxNzMyMjg3
-LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4NjcsLTcyMz
-U0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMs
-LTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMz
-MxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMT
+E1NjM0OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcy
+MiwzMDE3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOT
+A3MTg2NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgz
+LDU3NDM0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0ND
+Q1MDk1MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
