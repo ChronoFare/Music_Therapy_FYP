@@ -30,10 +30,6 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - Created and enhanced an upper limb rehabilitation system using novel technology.
 	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
-## Accomplishments
-
-
-
 ## Competitions and Events
  - **Participant**, Mapletree-SCCCI River Hongbao Hackathon 2020 - Expressed creativity to create a product with eco-sustainability in mind. 
  - **Participant**, Singapore Airlines AppChallenge - Tertiary Student Track 2021
@@ -48,11 +44,11 @@ Design: Adobe Illustrator & Adobe Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
 ## Co-Curricular Activities
-- Vice-Chairman, Aerospace Electronics Guild
+- **Vice-Chairman, Aerospace Electronics Guild**
 	- Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
-- EDGE Scholars Programme (Invitation Only)
+- **EDGE Scholars Programme (Invitation Only)**
 	- Trained verbal and written communication skills with current affairs sessions.
-- Overseas Leadership Training (LEAP) Camp
+- **Overseas Leadership Training (LEAP) Camp**
 	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
 ## On The Side
@@ -76,11 +72,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjU3NjAwNywxODUxODg4MzcwLC00OD
-k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
-OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
-E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
-NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3ND
-M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
-MzRdfQ==
+eyJoaXN0b3J5IjpbNjk3NjUxNTAxLDE4NTE4ODgzNzAsLTQ4OT
+QyMzg3NCwxMDQ0NzIxMDk4LC0xMTg4MDIxODc0LC0xMTU2MzQ5
+NDM5LDI0MjExNDQ0LDE5ODczOTgxMiwxNzI5ODExNzIyLDMwMT
+czMjI4NywyMTc5NjM5MzEsODQyMTUyNDQ3LC0xNTA5MDcxODY3
+LC03MjM1NDczMDEsNjEzMzgwMzIxLDEwNDYzNjk4ODMsNTc0Mz
+Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
+NF19
 -->
