@@ -52,9 +52,17 @@ Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
+## Relevant Information
+
+ - Completed Project Management: The Basics for Success Coursera X University of California, Irvine Extension
+ - Internship Period: 15 March 2021 to 13 August 2021
+ - Driving License : Class 3
+ - Date of Birth : 26th September 2000
+ - Professional Affiliation : Institution of Engineers, Singapore (IES)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc0NzYzMjYsNjEzMzgwMzIxLDEwND
+eyJoaXN0b3J5IjpbLTExMjE3NjY2NTYsNjEzMzgwMzIxLDEwND
 YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
 MjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX
 0=
