@@ -51,7 +51,7 @@ Productivity: MS Office, Zoom,  Slack
 - **Overseas Leadership Training (LEAP) Camp**
 	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
-## On The Side
+## 📌On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
 -  Completed courses in: 
@@ -72,7 +72,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjE3MzkyMiw2OTc2NTE1MDEsMTg1MT
+eyJoaXN0b3J5IjpbLTEzNDMzODQxMyw2OTc2NTE1MDEsMTg1MT
 g4ODM3MCwtNDg5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4
 NzQsLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mj
 k4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcs
