@@ -1,6 +1,7 @@
 # Nicholas A.K.
 Diploma Student
 ## Education
+
 **Diploma in Aerospace Electronics (DASE), cGPA: 3.97**
 
 Singapore Polytechnic - Singapore *(2018-Present)*
@@ -48,7 +49,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTY3Njc5MSwxMDQ2MzY5ODgzLDU3ND
+eyJoaXN0b3J5IjpbLTU1OTk3NjM1NywxMDQ2MzY5ODgzLDU3ND
 M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
 MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
