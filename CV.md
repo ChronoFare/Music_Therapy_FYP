@@ -29,7 +29,8 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 
 ## Competitions and Events
  - Presented FYP at the Singapore General Hospital SGH200 Learning Fiesta.
- - 
+ - SIA app development (Participation) 
+ -  
 ## Languages
 English: Native
 Chinese: Spoken
@@ -43,6 +44,6 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMz
-k2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjcxNjgyMDIsNDQ0NTA5NTM0LC0zMz
+MxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
 -->
