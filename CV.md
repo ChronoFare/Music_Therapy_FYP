@@ -4,14 +4,14 @@ Diploma Student
 ## Education
 
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.970
-Singapore Polytechnic - Singapore *(2018-2022)*
+#### Singapore Polytechnic - Singapore *(2018-2022)*
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
 ### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
-St. Andrew’s Secondary School - Singapore *(2012-2017)*
+#### St. Andrew’s Secondary School - Singapore *(2012-2017)*
 
 Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
@@ -72,11 +72,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NjUxNTAxLDE4NTE4ODgzNzAsLTQ4OT
-QyMzg3NCwxMDQ0NzIxMDk4LC0xMTg4MDIxODc0LC0xMTU2MzQ5
-NDM5LDI0MjExNDQ0LDE5ODczOTgxMiwxNzI5ODExNzIyLDMwMT
-czMjI4NywyMTc5NjM5MzEsODQyMTUyNDQ3LC0xNTA5MDcxODY3
-LC03MjM1NDczMDEsNjEzMzgwMzIxLDEwNDYzNjk4ODMsNTc0Mz
-Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
-NF19
+eyJoaXN0b3J5IjpbLTQyMjg2NTQ1Myw2OTc2NTE1MDEsMTg1MT
+g4ODM3MCwtNDg5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4
+NzQsLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mj
+k4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcs
+LTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0Nj
+M2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMy
+NTldfQ==
 -->
