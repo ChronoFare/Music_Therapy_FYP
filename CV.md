@@ -62,6 +62,7 @@ Productivity: MS Office, Zoom,  Slack
 -  Completed course in: 
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
+	 - AWS Academy 
 
 ## Languages
 English: Native
@@ -76,11 +77,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTg4ODM3MCwtNDg5NDIzODc0LDEwND
-Q3MjEwOTgsLTExODgwMjE4NzQsLTExNTYzNDk0MzksMjQyMTE0
-NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMzAxNzMyMjg3LDIxNz
-k2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMw
-MSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nz
-c2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgz
-NDddfQ==
+eyJoaXN0b3J5IjpbLTIxMTc5NDc2MjQsMTg1MTg4ODM3MCwtND
+g5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4NzQsLTExNTYz
+NDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMz
+AxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4
+NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1Nz
+QzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5
+NTM0XX0=
 -->
