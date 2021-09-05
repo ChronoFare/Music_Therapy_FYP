@@ -18,7 +18,10 @@ St. Andrew’s Secondary School - Singapore *(2012-2017)*
 Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
  - Recipient of Priscilla Krempl Award (Leadership)
- - Recipient of Edusave EAGLES Award
+ - Recipient of Edusave:
+	 - EAGLES Award
+	 - Character Award
+	 - Scholarship Award
  - Recipient of NYAA Silver Award
 
 Achievements: 
@@ -73,11 +76,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQyMzg3NCwxMDQ0NzIxMDk4LC0xMT
-g4MDIxODc0LC0xMTU2MzQ5NDM5LDI0MjExNDQ0LDE5ODczOTgx
-MiwxNzI5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQyMT
-UyNDQ3LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMzIx
-LDEwNDYzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNj
-M2NjkzMjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5
-Mzc2XX0=
+eyJoaXN0b3J5IjpbMTg1MTg4ODM3MCwtNDg5NDIzODc0LDEwND
+Q3MjEwOTgsLTExODgwMjE4NzQsLTExNTYzNDk0MzksMjQyMTE0
+NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMzAxNzMyMjg3LDIxNz
+k2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMw
+MSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nz
+c2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgz
+NDddfQ==
 -->
