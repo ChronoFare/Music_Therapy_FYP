@@ -30,7 +30,7 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - Created and enhanced an upper limb rehabilitation system using novel technology.
 	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
-## Competitions and Events
+## 📝Competitions and Events
  - **Participant**, Mapletree-SCCCI River Hongbao Hackathon 2020 - Expressed creativity to create a product with eco-sustainability in mind. 
  - **Participant**, Singapore Airlines AppChallenge - Tertiary Student Track 2021
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
@@ -72,11 +72,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg3OTE5MjQsNjk3NjUxNTAxLDE4NT
-E4ODgzNzAsLTQ4OTQyMzg3NCwxMDQ0NzIxMDk4LC0xMTg4MDIx
-ODc0LC0xMTU2MzQ5NDM5LDI0MjExNDQ0LDE5ODczOTgxMiwxNz
-I5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQyMTUyNDQ3
-LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMzIxLDEwND
-YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
-MjU5XX0=
+eyJoaXN0b3J5IjpbLTE3NzkzNTQ5MzIsLTExNDg3OTE5MjQsNj
+k3NjUxNTAxLDE4NTE4ODgzNzAsLTQ4OTQyMzg3NCwxMDQ0NzIx
+MDk4LC0xMTg4MDIxODc0LC0xMTU2MzQ5NDM5LDI0MjExNDQ0LD
+E5ODczOTgxMiwxNzI5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5
+MzEsODQyMTUyNDQ3LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNj
+EzMzgwMzIxLDEwNDYzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIz
+ODQzXX0=
 -->
