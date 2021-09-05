@@ -59,7 +59,7 @@ Productivity: MS Office, Zoom,  Slack
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
 
-## Languages
+## 💬Languages
 English: Native
 Chinese: Spoken
 Korean: Conversational
@@ -72,7 +72,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjg2NTQ1Myw2OTc2NTE1MDEsMTg1MT
+eyJoaXN0b3J5IjpbMTE3MjE3MzkyMiw2OTc2NTE1MDEsMTg1MT
 g4ODM3MCwtNDg5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4
 NzQsLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mj
 k4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcs
