@@ -19,6 +19,7 @@ Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
  - Recipient of Priscilla Krempl Award (Leadership)
  - Recipient of Edusave EAGLES Award
+ - Recipient of NYAA Silver Award
 
 Achievements: 
  - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
@@ -72,11 +73,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTgwMjcwLDEwNDQ3MjEwOTgsLTExOD
-gwMjE4NzQsLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4NzM5ODEy
-LDE3Mjk4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNT
-I0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEs
-MTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2Mz
-Y2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkz
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTQyMzg3NCwxMDQ0NzIxMDk4LC0xMT
+g4MDIxODc0LC0xMTU2MzQ5NDM5LDI0MjExNDQ0LDE5ODczOTgx
+MiwxNzI5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQyMT
+UyNDQ3LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMzIx
+LDEwNDYzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNj
+M2NjkzMjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5
+Mzc2XX0=
 -->
