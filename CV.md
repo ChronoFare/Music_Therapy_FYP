@@ -5,6 +5,7 @@ Diploma Student
 **Diploma in Aerospace Electronics (DASE), cGPA: 3.97**
 
 Singapore Polytechnic - Singapore *(2018-Present)*
+
 Notable Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
@@ -49,7 +50,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTk3NjM1NywxMDQ2MzY5ODgzLDU3ND
+eyJoaXN0b3J5IjpbMTExNDkzOTg0OSwxMDQ2MzY5ODgzLDU3ND
 M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
 MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
