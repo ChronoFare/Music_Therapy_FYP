@@ -2,6 +2,7 @@
 Diploma Student
 ## Education
 **Diploma in Aerospace Electronics (DASE), cGPA: 3.97**
+
 Singapore Polytechnic - Singapore *(2018-Present)*
 Notable Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
@@ -9,7 +10,7 @@ Notable Awards:
 
 **Cambridge ‘O’ Level Mathematics +
 Cambridge ‘N’ Level (NA), EMB3 Score : 6**
-[St. Andrew’s Secondary School] - Singapore (2012-2017)
+St. Andrew’s Secondary School - Singapore (2012-2017)
 
 Notable Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
@@ -47,7 +48,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTk4NjEyOSwxMDQ2MzY5ODgzLDU3ND
+eyJoaXN0b3J5IjpbLTk5MTY3Njc5MSwxMDQ2MzY5ODgzLDU3ND
 M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
 MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
