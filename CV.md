@@ -32,9 +32,9 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 
 
 ## Competitions and Events
- - Participated in Mapletree-SCCCI River Hongbao Hackathon 2020
- - Presented Final Year Project (FYP) at the Singapore General Hospital SGH200 Learning Fiesta.
- - Participated in Singapore Airlines AppChallenge - Tertiary Student Track 2021 
+ - Participant, Mapletree-SCCCI River Hongbao Hackathon 2020
+ - Participant, Singapore Airlines AppChallenge - Tertiary Student Track 2021
+ - Presented Final Year Project (FYP) at the Singapore General Hospital SGH200 Learning Fiesta. 
  - Techblazer Student Awards 2021 (pending)
  - Singapore Computer Society (SCS) Splash Awards 2021 (in comp)
 
@@ -46,7 +46,6 @@ Productivity: MS Office, Zoom,  Slack
 
 ## Co-Curricular Activities
 - Vice-Chairman, Aerospace Electronics Guild  Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
-- Participant, Mapletree-SCCI Hackathon
 - Expressed creativity to create a product with eco-sustainability in mind. EDGE Scholars Programme (Invitation Only)
 - Trained verbal and written communication skills with current affairs sessions. Overseas Leadership Training (LEAP) Camp
 - Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
@@ -69,8 +68,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE1OTk2NywtMTUwOTA3MTg2NywtNz
-IzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1
-MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLT
-MzMzE3ODM0NywtMTMzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbOTQ4MzY5MzgsLTE1MDkwNzE4NjcsLTcyMz
+U0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMs
+LTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMz
+MxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
 -->
