@@ -6,7 +6,7 @@ Diploma Student
 
 Singapore Polytechnic - Singapore *(2018-Present)*
 
-Notable Awards:
+Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
@@ -14,11 +14,11 @@ Notable Awards:
 Cambridge ‘N’ Level (NA), EMB3 Score : 6**
 St. Andrew’s Secondary School - Singapore (2012-2017)
 
-Notable Awards:
+Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
  - Recipient of Priscilla Krempl Award (Leadership)
 
-Notable Achievement: 
+Achievement: 
  - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels A
 
 ## Technical Experience
@@ -50,7 +50,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyODk0NzA1LDEwNDYzNjk4ODMsNTc0Mz
-Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
-NCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX0=
+eyJoaXN0b3J5IjpbLTU3NTM2OTMwMiwxMDQ2MzY5ODgzLDU3ND
+M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
+MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
