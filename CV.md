@@ -36,7 +36,13 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - Participated in Singapore Airlines AppChallenge - Tertiary Student Track 2021 
  - Techblazer Student Awards 2021 (pending)
  - Singapore Computer Society (SCS) Splash Awards 2021 (in comp)
- 
+
+## Technical Skills
+Programming Languages: C++, C#, Python
+Engineering Design: AutoCAD, Autodesk, Multisim 10.1
+Design: Adobe Illustrator & Premerie Pro
+Productivity: MS Office, Zoom,  Slack
+
 ## On The Side
 - Volunteered at Willing Hearts, 
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
@@ -45,12 +51,6 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 English: Native
 Chinese: Spoken
 Korean: Conversational
-
-## Technical Skills
-Programming Languages: C++, C#, Python
-Engineering Design: AutoCAD, Autodesk, Multisim 10.1
-Design: Adobe Illustrator & Premerie Pro
-Productivity: MS Office, Zoom,  Slack
 
 ## Relevant Information
 
@@ -61,7 +61,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY1MjY0MjMsNjEzMzgwMzIxLDEwND
+eyJoaXN0b3J5IjpbLTIwMjUwODA5ODksNjEzMzgwMzIxLDEwND
 YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
 MjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX
 0=
