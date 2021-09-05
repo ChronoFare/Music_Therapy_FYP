@@ -37,7 +37,7 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - Techblazer Student Awards 2021 (pending)
  - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
 
-## Technical Skills
+## 🧰Technical Skills
 Programming Languages: C++, C#, Python
 Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Adobe Premerie Pro
@@ -72,11 +72,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMDI2NjIyLDY5NzY1MTUwMSwxODUxOD
-g4MzcwLC00ODk0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3
-NCwtMTE1NjM0OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOT
-gxMTcyMiwzMDE3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0Nywt
-MTUwOTA3MTg2NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2Mz
-Y5ODgzLDU3NDM0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1
-OV19
+eyJoaXN0b3J5IjpbLTExNDg3OTE5MjQsNjk3NjUxNTAxLDE4NT
+E4ODgzNzAsLTQ4OTQyMzg3NCwxMDQ0NzIxMDk4LC0xMTg4MDIx
+ODc0LC0xMTU2MzQ5NDM5LDI0MjExNDQ0LDE5ODczOTgxMiwxNz
+I5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQyMTUyNDQ3
+LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMzIxLDEwND
+YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
+MjU5XX0=
 -->
