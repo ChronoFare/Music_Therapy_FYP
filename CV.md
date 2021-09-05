@@ -55,7 +55,7 @@ Productivity: MS Office, Zoom,  Slack
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
 -  Completed course in: 
-	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] 
+	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2019)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University]
 
 ## Languages
@@ -71,7 +71,7 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Njg2MDExOCwxOTg3Mzk4MTIsMTcyOT
+eyJoaXN0b3J5IjpbMTIzNDEzNDI1NywxOTg3Mzk4MTIsMTcyOT
 gxMTcyMiwzMDE3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0Nywt
 MTUwOTA3MTg2NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2Mz
 Y5ODgzLDU3NDM0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1
