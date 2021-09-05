@@ -3,6 +3,7 @@ Diploma Student
 ## Education
 
 **Diploma in Aerospace Electronics (DASE), cGPA: 3.97**
+
 Singapore Polytechnic - Singapore *(2018-Present)*
 
 Awards:
@@ -52,8 +53,9 @@ Productivity: MS Office, Zoom,  Slack
 - Vice-Chairman, Aerospace Electronics Guild
 	- Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
 - EDGE Scholars Programme (Invitation Only)
-- Trained verbal and written communication skills with current affairs sessions. Overseas Leadership Training (LEAP) Camp
-- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
+	- Trained verbal and written communication skills with current affairs sessions.
+- Overseas Leadership Training (LEAP) Camp
+	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
 ## On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
@@ -76,11 +78,11 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg0NTg2MjUsMTg1MTg4ODM3MCwtND
-g5NDIzODc0LDEwNDQ3MjEwOTgsLTExODgwMjE4NzQsLTExNTYz
-NDk0MzksMjQyMTE0NDQsMTk4NzM5ODEyLDE3Mjk4MTE3MjIsMz
-AxNzMyMjg3LDIxNzk2MzkzMSw4NDIxNTI0NDcsLTE1MDkwNzE4
-NjcsLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1Nz
-QzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5
-NTM0XX0=
+eyJoaXN0b3J5IjpbMTY5NzE3MDQyNCwxODUxODg4MzcwLC00OD
+k0MjM4NzQsMTA0NDcyMTA5OCwtMTE4ODAyMTg3NCwtMTE1NjM0
+OTQzOSwyNDIxMTQ0NCwxOTg3Mzk4MTIsMTcyOTgxMTcyMiwzMD
+E3MzIyODcsMjE3OTYzOTMxLDg0MjE1MjQ0NywtMTUwOTA3MTg2
+NywtNzIzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3ND
+M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
+MzRdfQ==
 -->
