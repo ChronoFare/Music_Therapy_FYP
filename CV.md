@@ -24,7 +24,7 @@ Notable Achievement:
 ## Technical Experience
 Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created and enhanced an upper limb rehabilitation system using novel technology.
- - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
+	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
 ## Accomplishments
 
@@ -50,7 +50,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDkzOTg0OSwxMDQ2MzY5ODgzLDU3ND
-M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
-MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbMzkyODk0NzA1LDEwNDYzNjk4ODMsNTc0Mz
+Q0OTUzLC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUz
+NCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX0=
 -->
