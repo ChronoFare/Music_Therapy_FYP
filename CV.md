@@ -32,9 +32,9 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 
 
 ## Competitions and Events
- - Participant, Mapletree-SCCCI River Hongbao Hackathon 2020
- - Participant, Singapore Airlines AppChallenge - Tertiary Student Track 2021
- - Presenter, Singapore General Hospital SGH200 Learning Fiesta - for Final Year Project (FYP)
+ - **Participant**, Mapletree-SCCCI River Hongbao Hackathon 2020 - Expressed creativity to create a product with eco-sustainability in mind. 
+ - **Participant**, Singapore Airlines AppChallenge - Tertiary Student Track 2021
+ - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
  - Techblazer Student Awards 2021 (pending)
  - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
 
@@ -45,8 +45,9 @@ Design: Adobe Illustrator & Adobe Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
 ## Co-Curricular Activities
-- Vice-Chairman, Aerospace Electronics Guild  Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
-- Expressed creativity to create a product with eco-sustainability in mind. EDGE Scholars Programme (Invitation Only)
+- Vice-Chairman, Aerospace Electronics Guild
+	- Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
+- EDGE Scholars Programme (Invitation Only)
 - Trained verbal and written communication skills with current affairs sessions. Overseas Leadership Training (LEAP) Camp
 - Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
@@ -68,8 +69,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTkyNzgwNywtMTUwOTA3MTg2NywtNz
-IzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1
-MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLT
-MzMzE3ODM0NywtMTMzOTYxOTM3Nl19
+eyJoaXN0b3J5IjpbODQyMTUyNDQ3LC0xNTA5MDcxODY3LC03Mj
+M1NDczMDEsNjEzMzgwMzIxLDEwNDYzNjk4ODMsNTc0MzQ0OTUz
+LC0xNjc3NjIzODQzLC0xNjM2NjkzMjU5LDQ0NDUwOTUzNCwtMz
+MzMTc4MzQ3LC0xMzM5NjE5Mzc2XX0=
 -->
