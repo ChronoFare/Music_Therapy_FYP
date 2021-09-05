@@ -20,7 +20,8 @@ Awards:
  - Recipient of Priscilla Krempl Award (Leadership)
 
 Achievements: 
- - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels.
+ - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels. 
+ - specially designed for the top ‘N’ Level (Academic) cohort
  - NYAA Silver Award *(2016)*
 
 ## Technical Experience
@@ -72,10 +73,10 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1OTY3OTYwLDI0MjExNDQ0LDE5ODczOT
-gxMiwxNzI5ODExNzIyLDMwMTczMjI4NywyMTc5NjM5MzEsODQy
-MTUyNDQ3LC0xNTA5MDcxODY3LC03MjM1NDczMDEsNjEzMzgwMz
-IxLDEwNDYzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0x
-NjM2NjkzMjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5Nj
-E5Mzc2XX0=
+eyJoaXN0b3J5IjpbLTExNTYzNDk0MzksMjQyMTE0NDQsMTk4Nz
+M5ODEyLDE3Mjk4MTE3MjIsMzAxNzMyMjg3LDIxNzk2MzkzMSw4
+NDIxNTI0NDcsLTE1MDkwNzE4NjcsLTcyMzU0NzMwMSw2MTMzOD
+AzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMs
+LTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMz
+k2MTkzNzZdfQ==
 -->
