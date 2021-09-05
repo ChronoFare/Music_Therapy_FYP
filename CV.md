@@ -9,7 +9,7 @@ Notable Awards:
 
 **Cambridge ‘O’ Level Mathematics +
 Cambridge ‘N’ Level (NA), EMB3 Score : 6**
-St. Andrew’s Secondary School - Singapore (2012-2017)
+[St. Andrew’s Secondary School] - Singapore (2012-2017)
 
 Notable Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’)
@@ -47,7 +47,7 @@ Productivity: MS Office, Zoom,  Slack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjM2OTg4Myw1NzQzNDQ5NTMsLTE2Nz
-c2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMzMxNzgz
-NDcsLTEzMzk2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbLTg5NTk4NjEyOSwxMDQ2MzY5ODgzLDU3ND
+M0NDk1MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1
+MzQsLTMzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
