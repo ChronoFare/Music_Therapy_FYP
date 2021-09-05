@@ -12,6 +12,7 @@ Awards:
 
 **Cambridge ‘O’ Level Mathematics +
 Cambridge ‘N’ Level (NA), EMB3 Score : 6**
+
 St. Andrew’s Secondary School - Singapore (2012-2017)
 
 Awards:
@@ -43,6 +44,8 @@ Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Premerie Pro
 Productivity: MS Office, Zoom,  Slack
 
+## 
+
 ## On The Side
 - Volunteered at Willing Hearts, 
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
@@ -61,8 +64,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUwODA5ODksNjEzMzgwMzIxLDEwND
-YzNjk4ODMsNTc0MzQ0OTUzLC0xNjc3NjIzODQzLC0xNjM2Njkz
-MjU5LDQ0NDUwOTUzNCwtMzMzMTc4MzQ3LC0xMzM5NjE5Mzc2XX
-0=
+eyJoaXN0b3J5IjpbLTcyMzU0NzMwMSw2MTMzODAzMjEsMTA0Nj
+M2OTg4Myw1NzQzNDQ5NTMsLTE2Nzc2MjM4NDMsLTE2MzY2OTMy
+NTksNDQ0NTA5NTM0LC0zMzMxNzgzNDcsLTEzMzk2MTkzNzZdfQ
+==
 -->
