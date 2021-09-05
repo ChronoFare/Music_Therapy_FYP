@@ -34,9 +34,9 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
 ## Competitions and Events
  - Participant, Mapletree-SCCCI River Hongbao Hackathon 2020
  - Participant, Singapore Airlines AppChallenge - Tertiary Student Track 2021
- - Presented Final Year Project (FYP) at the Singapore General Hospital SGH200 Learning Fiesta. 
+ - Presenter, Singapore General Hospital SGH200 Learning Fiesta - for Final Year Project (FYP)
  - Techblazer Student Awards 2021 (pending)
- - Singapore Computer Society (SCS) Splash Awards 2021 (in comp)
+ - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
 
 ## Technical Skills
 Programming Languages: C++, C#, Python
@@ -68,8 +68,8 @@ Korean: Conversational
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzY5MzgsLTE1MDkwNzE4NjcsLTcyMz
-U0NzMwMSw2MTMzODAzMjEsMTA0NjM2OTg4Myw1NzQzNDQ5NTMs
-LTE2Nzc2MjM4NDMsLTE2MzY2OTMyNTksNDQ0NTA5NTM0LC0zMz
-MxNzgzNDcsLTEzMzk2MTkzNzZdfQ==
+eyJoaXN0b3J5IjpbMTM4NTkyNzgwNywtMTUwOTA3MTg2NywtNz
+IzNTQ3MzAxLDYxMzM4MDMyMSwxMDQ2MzY5ODgzLDU3NDM0NDk1
+MywtMTY3NzYyMzg0MywtMTYzNjY5MzI1OSw0NDQ1MDk1MzQsLT
+MzMzE3ODM0NywtMTMzOTYxOTM3Nl19
 -->
