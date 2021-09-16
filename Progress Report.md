@@ -17,9 +17,9 @@ Dr. Arun Kumar outlined the core problems of the project to be resolved by me in
 ## TASK: (By Dr Arun Kumar)
  - [x] Story Telling Game (Associate pictures to game sounds via MIDI) <-- SEAN
  - [x] Research on current solutions to music therapy and explore the methods of evaluation; their flaws, how it can be improved.
- - [ ] Add sustain code to piano notes during songs.
+ - [x] Add sustain code to piano notes during songs.
  - [x] Add auto-adjust sound codes to instrument from dropdown list.
- - [ ] [FINAL STAGE] Integrate Machine Learning from data sourced from games.
+ - [x] [FINAL STAGE] Integrate Machine Learning from data sourced from games.
 
 **Conceive**
 As this project encompasses around rehabilition for the upper limbs (a.k.a. upper extremities), I researched available solutions and issues faced by users. 
@@ -38,7 +38,7 @@ To accustom myself to the new programs required for the project, I have used onl
  - [x] Done integration of LEAP Motion Controller into .wav piano game.
  - [x] Learning MIDI code and integrating it to a game.
  - [x] Learn motion for picking up ball and moving. 
- - [ ] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
+ - [x] Build **assessment game** based on physical questionaire on upper extremity. Look for assessment showing benefits in games. "Thus, this game is useful...", "better engages children in assessments".      
  - Find assessment tests for adolescents/kids 
  - **This test should be able to assess the children's progress and evaluate what needs to be done further to improve dysfunction.**
  - SIMPLE
@@ -73,7 +73,7 @@ Meet with Dr Kumar :
 ## TO DO CHECKLIST (Week 5)
 
  - [x] Write and prepare **script** for SGH 
- - [ ] Write M-TAG proposal and **Do game**.
+ - [x] Write M-TAG proposal and **Do game**.
  - [x] Weekly journal(Done)
  - [x] Do the external borders for backlight keys
  - [x] create the latest .exe for file
@@ -95,9 +95,9 @@ Meet with Dr Kumar :
 
  ## Week 7 (26 April- 30 April 2021)
 To complete:
- - [ ] Practice speech for SGH200 on Thursday
- - [ ] Work on own game...
+ - [x] Practice speech for SGH200 on Thursday
+ - [x] Work on own game...
 
 
 ### TASK: (By Dr Arun Kumar)
- - [ ] Create upload of CSV to online
+ - [x] Create upload of CSV to online
